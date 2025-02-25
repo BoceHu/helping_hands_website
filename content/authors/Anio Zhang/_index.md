@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. student, Computer Science
+role: M.S. student, Information Systems
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ email: ""
 user_groups:
 - Students
 
-site: https://aniozhang.github.io/Aniozhang/
+site: https://aniozhang.github.io/
 
 ---
 
