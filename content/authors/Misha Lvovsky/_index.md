@@ -44,6 +44,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:lvovsky.m@northeastern.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Igre_ZoAAAAJ&hl=en
