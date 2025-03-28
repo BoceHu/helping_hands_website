@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Alumni
 
 site: https://www.linkedin.com/in/abhinav-kumar-777b18211/
 
