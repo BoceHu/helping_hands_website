@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. student, ECE
+role: M.S. student, Robotic (cs)
 
 # Organizations/Affiliations
 organizations:
@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:zhu.yizhe@northeastern.edu'
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=H78BJecAAAAJ&hl=en&oi=ao
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=MhSyhtwAAAAJ&hl
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -70,8 +70,8 @@ email: ""
 user_groups:
 - Students
 
-site: https://www.linkedin.com/in/zhu-yizhe-79a0a5329/
+site: https://yizhezhu0925.github.io/yizhezhu0925/
 
 ---
 
-<!-- <meta http-equiv = "refresh" content = " 0 ; url = https://bocehu.github.io"/> -->
+<meta http-equiv = "refresh" content = " 0 ; url = https://yizhezhu0925.github.io/yizhezhu0925/"/>
