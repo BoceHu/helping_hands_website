@@ -65,7 +65,7 @@ email: ""
 user_groups:
 - Alumni
 
-site: https://saulbatman.github.io/
+site: mingxi-jia.github.io
 
 ---
 
