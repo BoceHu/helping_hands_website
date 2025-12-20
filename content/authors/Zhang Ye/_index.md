@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. student, Robotic (ECE)
+role: M.S. student, Robotics (ECE)
 
 # Organizations/Affiliations
 organizations:
