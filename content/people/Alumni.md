@@ -13,6 +13,10 @@ title: Alumni News
 subtitle:
 
 ---
+- Heng Tian, MS (Robotics), 2025
+- Haibo Zhao, MS (Robotics), 2025
+- Yaoyao(Freax) Qian, MS (Information Systems), 2025
+- Rachel Lim, MS (Robotics), 2025
 - Arsh Tangri, MS (Robotics), 2024. Now at Path Robotics.
 - Elias Mann, MS (AI), 2024. Now at Rowan.
 - Kenechi Dukor, MS (Robotics), 2024. Now at Motorola Solutions.
