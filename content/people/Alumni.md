@@ -13,8 +13,10 @@ title: Alumni News
 subtitle:
 
 ---
+- Yizhe Zhu, MS (Robotics), 2026. Now a Phd student at University of Macau.
+- Haotian Liu, BS, 2026. Now at Li Auto
 - Heng Tian, MS (Robotics), 2025
-- Haibo Zhao, MS (Robotics), 2025
+- Haibo Zhao, MS (Robotics), 2025. Now a Phd student at University of Washington.
 - Yaoyao(Freax) Qian, MS (Information Systems), 2025
 - Rachel Lim, MS (Robotics), 2025
 - Arsh Tangri, MS (Robotics), 2024. Now at Path Robotics.
