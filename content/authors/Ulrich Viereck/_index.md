@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Robotics Software Engineer at Berkshire Grey
+role: Symbotic
 
 # Organizations/Affiliations
 organizations:

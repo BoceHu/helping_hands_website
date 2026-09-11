@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Applied Scientist at Amazon Web Services (AWS)
+role: Microsoft
 
 # Organizations/Affiliations
 organizations:

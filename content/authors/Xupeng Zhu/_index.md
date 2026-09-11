@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Applied scientist at Amazon Robotics
+role: Amazon Robotics
 
 # Organizations/Affiliations
 organizations:

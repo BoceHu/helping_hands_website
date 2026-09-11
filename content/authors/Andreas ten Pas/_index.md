@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Robotics Scientist at Botbuilt
+role: Luminous Robotics
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Scientist at Bosch
+role: Bosch
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Roboticist at Boston Dynamics AI Institute
+role: Robotics and AI Institute 
 
 # Organizations/Affiliations
 organizations:
