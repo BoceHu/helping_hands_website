@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc at Stanford University
+role: University of Macau
 
 # Organizations/Affiliations
 organizations:

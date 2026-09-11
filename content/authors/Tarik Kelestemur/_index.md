@@ -5,7 +5,7 @@ title: Tarik Kelestemur
 superuser: false
 
 # Role/position
-role: Roboticist at Boston Dynamics AI Institute
+role: Eka Robotics
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc at Northeastern University
+role: Stealth Startup
 
 # Organizations/Affiliations
 organizations:
