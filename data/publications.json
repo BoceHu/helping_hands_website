@@ -1,0 +1,2339 @@
+[
+  {
+    "id": "haojie_pix2act",
+    "title": "Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation",
+    "authors": [
+      "Haojie Huang",
+      "Linfeng Zhao",
+      "Haotian Liu",
+      "Zhang Ye",
+      "Si-Yuan Huang",
+      "Mingxi Jia",
+      "Boce Hu",
+      "Fangzhou Lin",
+      "Yu Qi",
+      "Dian Wang",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2026",
+    "date": "2026-07-15T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "Preprint",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/pix2act.gif",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://haojhuang.github.io/pix2act_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2607.11167"
+      }
+    ]
+  },
+  {
+    "id": "haojie_amp",
+    "title": "Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification",
+    "authors": [
+      "Haojie Huang",
+      "Zhang Ye",
+      "Linfeng Zhao",
+      "Boce Hu",
+      "Mingxi Jia",
+      "Yu Qi",
+      "Ahmed Agha",
+      "Dian Wang",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2026",
+    "date": "2026-07-14T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "Preprint",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/action_map_policy.gif",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://haojhuang.github.io/amp_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2607.10706"
+      }
+    ]
+  },
+  {
+    "id": "david_raven",
+    "title": "RAVEN: End-to-end Equivariant Robot Learning with RGB Cameras",
+    "authors": [
+      "David Klee*",
+      "Boce Hu*",
+      "Andrew Cole",
+      "Heng Tian",
+      "Dian Wang",
+      "Robert Platt†",
+      "Robin Walters†"
+    ],
+    "year": "2026",
+    "date": "2026-04-24T00:00:00Z",
+    "venue": "ICLR 2026",
+    "venue_full": "ICLR 2026",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/raven.gif",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://dmklee.github.io/raven/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=z8BN7KyaPl"
+      }
+    ]
+  },
+  {
+    "id": "xupeng_equact",
+    "title": "EquAct: An SE(3)-Equivariant Multi-Task Transformer for 3D Robotic Manipulation",
+    "authors": [
+      "Xupeng Zhu",
+      "Yu Qi",
+      "Yizhe Zhu",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2026",
+    "date": "2026-04-23T00:00:00Z",
+    "venue": "ICLR 2026",
+    "venue_full": "ICLR 2026",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/xupeng_equact.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2505.21351"
+      }
+    ]
+  },
+  {
+    "id": "yizhe_equitac",
+    "title": "Residual Rotation Correction using Tactile Equivariance",
+    "authors": [
+      "Yizhe Zhu",
+      "Zhang Ye",
+      "Boce Hu",
+      "Haibo Zhao",
+      "Yu Qi",
+      "Dian Wang†",
+      "Robert Platt†"
+    ],
+    "year": "2026",
+    "date": "2026-02-01T00:00:00Z",
+    "venue": "RAL 2026",
+    "venue_full": "RAL 2026",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/residual_rotation_correction.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://yizhezhu0925.github.io/equitac.github.io/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2511.07381"
+      }
+    ]
+  },
+  {
+    "id": "dian_equidiff_ijrr",
+    "title": "Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation",
+    "authors": [
+      "Dian Wang",
+      "Stephen Hart",
+      "David Surovik",
+      "Tarik Kelestemur",
+      "Haojie Huang",
+      "Haibo Zhao",
+      "Mark Yeatman",
+      "Xupeng Zhu",
+      "Boce Hu",
+      "Mingxi Jia",
+      "Jiuguang Wang",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2026",
+    "date": "2026-01-20T00:00:00Z",
+    "venue": "IJRR 2026",
+    "venue_full": "The International Journal of Robotics Research",
+    "kind": "journal",
+    "abstract": "",
+    "thumb": "img/pubs/dian_equidiff_ijrr.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445"
+      }
+    ]
+  },
+  {
+    "id": "haibo_gsl",
+    "title": "Generalizable Hierarchical Skill Learning via Object-Centric Representation",
+    "authors": [
+      "Haibo Zhao",
+      "Yu Qi",
+      "Boce Hu",
+      "Yizhe Zhu",
+      "Ziyan Chen",
+      "Xupeng Zhu",
+      "Owen Howell",
+      "Haojie Huang",
+      "Robin Walters",
+      "Dian Wang†",
+      "Robert Platt†"
+    ],
+    "year": "2026",
+    "date": "2026-01-15T00:00:00Z",
+    "venue": "RAL 2026",
+    "venue_full": "RAL 2026",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/generalizable_hierarchical_skill.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://codemasterzhao.github.io/GSL/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2510.21121"
+      }
+    ]
+  },
+  {
+    "id": "boce_i2s",
+    "title": "3D Equivariant Visuomotor Policy Learning via Spherical Projection",
+    "authors": [
+      "Boce Hu",
+      "Dian Wang",
+      "David Klee",
+      "Heng Tian",
+      "Xupeng Zhu",
+      "Haojie Huang",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2025",
+    "date": "2025-12-10T00:00:00Z",
+    "venue": "NeurIPS 2025",
+    "venue_full": "NeurIPS 2025",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/3d_equivariant_visuomotor.gif",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://isp-3d.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2505.16969"
+      }
+    ],
+    "award": "Spotlight"
+  },
+  {
+    "id": "dian_symguide",
+    "title": "A Practical Guide for Incorporating Symmetry in Diffusion Policy",
+    "authors": [
+      "Dian Wang",
+      "Boce Hu",
+      "Shuran Song",
+      "Robin Walters†",
+      "Robert Platt†"
+    ],
+    "year": "2025",
+    "date": "2025-12-09T00:00:00Z",
+    "venue": "NeurIPS 2025",
+    "venue_full": "NeurIPS 2025",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/a_practical_guide.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://sym-in-dp.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2505.13431"
+      }
+    ]
+  },
+  {
+    "id": "colin_bridging",
+    "title": "Bridging Equivariant GNNs and Spherical CNNs for Structured Physical Domains",
+    "authors": [
+      "Colin Kohler",
+      "Purvik Patel",
+      "Nathan Vaska",
+      "Justin Goodwin",
+      "Matthew Jones",
+      "Robert Platt",
+      "Rajmonda Caceres",
+      "Robin Walters"
+    ],
+    "year": "2025",
+    "date": "2025-12-08T00:00:00Z",
+    "venue": "NeurIPS 2025",
+    "venue_full": "NeurIPS 2025",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/colin_bridging.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=yh4DPshiWZ"
+      }
+    ]
+  },
+  {
+    "id": "owen_cgtransformer",
+    "title": "Clebsch-Gordan Transformer: Fast and Global Equivariant Attention",
+    "authors": [
+      "Owen Lewis Howell",
+      "Linfeng Zhao",
+      "Xupeng Zhu",
+      "Yaoyao Qian",
+      "Haojie Huang",
+      "Lingfeng Sun",
+      "Wil Thomason",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2025",
+    "date": "2025-09-29T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "Preprint",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/owen_cgtransformer.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2509.24093"
+      }
+    ]
+  },
+  {
+    "id": "arsh_eqgcrl",
+    "title": "Equivariant Goal Conditioned Contrastive Reinforcement Learning",
+    "authors": [
+      "Arsh Tangri",
+      "Nichols Crawford Taylor",
+      "Haojie Huang",
+      "Robert Platt"
+    ],
+    "year": "2025",
+    "date": "2025-07-22T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "Preprint",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/arsh_eqgcrl.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2507.16139"
+      }
+    ]
+  },
+  {
+    "id": "haibo_hep",
+    "title": "Hierarchical Equivariant Policy via Frame Transfer",
+    "authors": [
+      "Haibo Zhao*",
+      "Dian Wang*",
+      "Yizhe Zhu",
+      "Xupeng Zhu",
+      "Owen Howell",
+      "Linfeng Zhao",
+      "Yaoyao Qian",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2025",
+    "date": "2025-07-15T00:00:00Z",
+    "venue": "ICML 2025",
+    "venue_full": "ICML 2025",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/hierarchical_equivariant_policy.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://codemasterzhao.github.io/HierEquiPo.github.io/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2502.05728"
+      }
+    ]
+  },
+  {
+    "id": "chula_fullyobs",
+    "title": "Leveraging Fully-Observable Solutions for Improved Partially-Observable Offline Reinforcement Learning",
+    "authors": [
+      "Chulabhaya Wijesundara",
+      "Andrea Baisero",
+      "Gregory David Castanon",
+      "Alan S Carlin",
+      "Robert Platt",
+      "Christopher Amato"
+    ],
+    "year": "2025",
+    "date": "2025-06-15T00:00:00Z",
+    "venue": "TMLR 2025",
+    "venue_full": "TMLR 2025",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/chula_fullyobs.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=e9p4TDPy6A"
+      }
+    ]
+  },
+  {
+    "id": "boce_pushgrasp",
+    "title": "Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization",
+    "authors": [
+      "Boce Hu*",
+      "Heng Tian*",
+      "Dian Wang",
+      "Haojie Huang",
+      "Xupeng Zhu",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2025",
+    "date": "2025-06-02T00:00:00Z",
+    "venue": "RAL 2025",
+    "venue_full": "RAL 2025",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/push_grasp_policy.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://equipushgrasp.github.io"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2504.03053"
+      }
+    ]
+  },
+  {
+    "id": "mingxi_gem",
+    "title": "Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping",
+    "authors": [
+      "Mingxi Jia",
+      "Haojie Huang",
+      "Zhewen Zhang",
+      "Chenghao Wang",
+      "Linfeng Zhao",
+      "Dian Wang",
+      "Jason Xinyu Liu",
+      "Robin Walters",
+      "Robert Platt",
+      "Stefanie Tellex"
+    ],
+    "year": "2025",
+    "date": "2025-06-01T00:00:00Z",
+    "venue": "RAL 2025",
+    "venue_full": "RAL 2025",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/learning_efficient_and_robust_language.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://mingxi-jia.github.io/gem_page/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2406.15677"
+      }
+    ],
+    "award": "Best Paper Award Honorable Mention"
+  },
+  {
+    "id": "ondrej_gcr",
+    "title": "On-Robot Reinforcement Learning with Goal-Contrastive Rewards",
+    "authors": [
+      "Ondrej Biza",
+      "Thomas Weng",
+      "Lingfeng Sun",
+      "Karl Schmeckpeper",
+      "Tarik Kelestemur",
+      "Yecheng Jason Ma",
+      "Robert Platt",
+      "Jan-Willem van de Meent",
+      "Lawson L. S. Wong"
+    ],
+    "year": "2025",
+    "date": "2025-02-07T00:00:00Z",
+    "venue": "ICRA 2025",
+    "venue_full": "In Proceedings of the 2025 IEEE International Conference on Robotics and Automation",
+    "kind": "conference",
+    "abstract": "Reinforcement Learning (RL) has the potential to enable robots to learn from their own actions in the real world. Unfortunately, RL can be prohibitively expensive, in terms of on-robot runtime, due to inefficient exploration when learning from a sparse reward signal. Designing dense reward functions is labour-intensive and requires domain expertise. In our work, we propose GCR (Goal-Contrastive Rewards), a dense reward function learning method that can be trained on passive video demonstrations. By using videos without actions, our method is easier to scale, as we can use arbitrary videos. GCR combines two loss functions, an implicit value loss function that models how the reward increases when traversing a successful trajectory, and a goal-contrastive loss that discriminates between successful and failed trajectories. We perform experiments in simulated manipulation environments across RoboMimic and MimicGen tasks, as well as in the real world using a Franka arm and a Spot quadruped. We find that GCR leads to a more-sample efficient RL, enabling model-free RL to solve about twice as many tasks as our baseline reward learning methods. We also demonstrate positive cross-embodiment transfer from videos of people and of other robots performing a task.",
+    "thumb": "img/pubs/ondrej_gcr.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_gcr/biza25gcr.pdf"
+      }
+    ]
+  },
+  {
+    "id": "xupeng_c2f",
+    "title": "Coarse-to-Fine 3D Keyframe Transporter",
+    "authors": [
+      "Xupeng Zhu",
+      "David Klee*",
+      "Dian Wang*",
+      "Boce Hu",
+      "Haojie Huang",
+      "Arsh Tangri",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2025",
+    "date": "2025-02-04T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "Preprint",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/coarse_to_fine_3d_keyframe.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2502.01773"
+      }
+    ]
+  },
+  {
+    "id": "haojie_match_policy",
+    "title": "MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies",
+    "authors": [
+      "Haojie Huang",
+      "Haotian Liu",
+      "Dian Wang",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2025",
+    "date": "2025-02-03T00:00:00Z",
+    "venue": "ICRA 2025",
+    "venue_full": "In International Conference on Robotics and Automation 2025",
+    "kind": "conference",
+    "abstract": "Many manipulation tasks require the robot to rearrange objects relative to one another. Such tasks can be described as a sequence of relative poses between parts of a set of rigid bodies. In this work, we propose MATCH POLICY, a simple but novel pipeline for solving high-precision pick and place tasks. Instead of predicting actions directly, our method registers the pick and place targets to the stored demonstrations. This transfers action inference into a point cloud registration task and enables us to realize nontrivial manipulation policies without any training. MATCH POLICY is designed to solve high-precision tasks with a key-frame setting. By leveraging the geometric interaction and the symmetries of the task, it achieves extremely high sample efficiency and generalizability to unseen configurations. We demonstrate its state-of-the-art performance across various tasks on RLBench benchmark compared with several strong baselines and test it on a real robot with six tasks",
+    "thumb": "img/pubs/haojie_match_policy.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2409.15517"
+      },
+      {
+        "label": "Code",
+        "url": "https://haojhuang.github.io/match_page/"
+      },
+      {
+        "label": "Video",
+        "url": "https://haojhuang.github.io/match_page/"
+      },
+      {
+        "label": "Website",
+        "url": "https://haojhuang.github.io/match_page/"
+      }
+    ]
+  },
+  {
+    "id": "boce_orbitgrasp",
+    "title": "OrbitGrasp: SE(3)-Equivariant Grasp Learning",
+    "authors": [
+      "Boce Hu",
+      "Xupeng Zhu",
+      "Dian Wang",
+      "Zihao Dong",
+      "Haojie Huang",
+      "Chenghao Wang",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2025",
+    "date": "2025-02-01T00:00:00Z",
+    "venue": "CoRL 2024",
+    "venue_full": "In Conference on Robot Learning 2024",
+    "kind": "conference",
+    "abstract": "While grasp detection is an important part of any robotic manipulation pipeline, reliable and accurate grasp detection in SE(3) remains a research challenge. Many robotics applications in unstructured environments such as the home or warehouse would benefit a lot from better grasp performance. This paper proposes a novel framework for detecting SE(3) grasp poses based on point cloud input. Our main contribution is to propose an SE(3)-equivariant model that maps each point in the cloud to a continuous grasp quality function over the 2-sphere S2 using a spherical harmonic basis. Compared with reasoning about a finite set of samples, this formulation improves the accuracy and efficiency of our model when a large number of samples would otherwise be needed. In order to accomplish this, we propose a novel variation on EquiFormerV2 that leverages a UNet-style encoder-decoder architecture to enlarge the number of points the model can handle. Our resulting method, which we name OrbitGrasp, significantly outperforms baselines in both simulation and physical experiments.",
+    "thumb": "img/pubs/boce_orbitgrasp.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2407.03531"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/BoceHu/orbitgrasp"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=Y3UxZMPc0ms"
+      },
+      {
+        "label": "Website",
+        "url": "https://orbitgrasp.github.io/"
+      }
+    ]
+  },
+  {
+    "id": "Yaoyao(Freax)_Thinkgrasp",
+    "title": "ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter",
+    "authors": [
+      "Yaoyao(Freax) Qian",
+      "Xupeng Zhu",
+      "Ondrej Biza",
+      "Shuo Jiang",
+      "Linfeng Zhao",
+      "Haojie Huang",
+      "Yu Qi",
+      "Robert Platt"
+    ],
+    "year": "2024",
+    "date": "2024-11-09T00:00:00Z",
+    "venue": "CoRL 2024",
+    "venue_full": "In Conference on Robot Learning 2024",
+    "kind": "conference",
+    "abstract": "Robotic grasping in cluttered environments remains a significant challenge due to occlusions and complex object arrangements. We have developed ThinkGrasp, a plug-and-play vision-language grasping system that makes use of GPT-4o's advanced contextual reasoning for heavy clutter environment grasping strategies. ThinkGrasp can effectively identify and generate grasp poses for target objects, even when they are heavily obstructed or nearly invisible, by using goal-oriented language to guide the removal of obstructing objects. This approach progressively uncovers the target object and ultimately grasps it with a few steps and a high success rate. In both simulated and real experiments, ThinkGrasp achieved a high success rate and significantly outperformed state-of-the-art methods in heavily cluttered environments or with diverse unseen objects, demonstrating strong generalization capabilities.",
+    "thumb": "img/pubs/Yaoyao(Freax)_Thinkgrasp.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2407.11298"
+      },
+      {
+        "label": "Website",
+        "url": "https://h-freax.github.io/thinkgrasp_page/"
+      }
+    ]
+  },
+  {
+    "id": "dian_equidiff",
+    "title": "Equivariant Diffusion Policy",
+    "authors": [
+      "Dian Wang",
+      "Stephen Hart",
+      "David Surovik",
+      "Tarik Kelestemur",
+      "Haojie Huang",
+      "Haibo Zhao",
+      "Mark Yeatman",
+      "Jiuguang Wang",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2024",
+    "date": "2024-11-09T00:00:00Z",
+    "venue": "CoRL 2024",
+    "venue_full": "In Conference on Robot Learning 2024",
+    "kind": "conference",
+    "abstract": "Recent work has shown diffusion models are an effective approach to learning the multimodal distributions arising from demonstration data in behavior cloning. However, a drawback of this approach is the need to learn a denoising function, which is significantly more complex than learning an explicit policy. In this work, we propose Equivariant Diffusion Policy, a novel diffusion policy learning method that leverages domain symmetries to obtain better sample efficiency and generalization in the denoising function. We theoretically analyze the SO(2) symmetry of full 6-DoF control and characterize when a diffusion model is SO(2)-equivariant. We furthermore evaluate the method empirically on a set of 12 simulation tasks in MimicGen, and show that it obtains a success rate that is, on average, 21.9% higher than the baseline Diffusion Policy. We also evaluate the method on a real-world system to show that effective policies can be learned with relatively few training samples, whereas the baseline Diffusion Policy cannot.",
+    "thumb": "img/pubs/dian_equidiff.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2407.01812"
+      },
+      {
+        "label": "Website",
+        "url": "https://equidiff.github.io/"
+      }
+    ],
+    "award": "Outstanding Paper Award Finalist"
+  },
+  {
+    "id": "hai_mutualinfo",
+    "title": "Leveraging Mutual Information for Asymmetric Learning under Partial Observability",
+    "authors": [
+      "Hai Huu Nguyen",
+      "Christopher Amato",
+      "Robert Platt"
+    ],
+    "year": "2024",
+    "date": "2024-11-06T00:00:00Z",
+    "venue": "CoRL 2024",
+    "venue_full": "CoRL 2024",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/hai_mutualinfo.png",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/view/mi-asym-pomdp"
+      },
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=9jJP2J1oBP"
+      }
+    ]
+  },
+  {
+    "id": "haojie_imagine",
+    "title": "IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies",
+    "authors": [
+      "Haojie Huang",
+      "Karl Schmeckpeper",
+      "Dian Wang",
+      "Ondrej Biza",
+      "Yaoyao Qian",
+      "Haotian Liu",
+      "Mingxi Jia",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2024",
+    "date": "2024-09-10T00:00:00Z",
+    "venue": "CoRL 2024",
+    "venue_full": "In Conference on Robot Learning 2024",
+    "kind": "conference",
+    "abstract": "Humans can imagine goal states during planning and perform actions to match those goals. In this work, we propose IMAGINATION POLICY, a novel multi-task key-frame policy network for solving high-precision pick and place tasks. Instead of learning actions directly, IMAGINATION POLICY generates point clouds to imagine desired states which are then translated to actions using rigid action estimation. This transforms action inference into a local generative task. We leverage pick and place symmetries underlying the tasks in the generation process and achieve extremely high sample efficiency and generalizability to unseen configurations. Finally, we demonstrate state-of-the-art performance across various tasks on the RLbench benchmark compared with several strong baselines and validate our approach on a real robot.",
+    "thumb": "img/pubs/haojie_imagine.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/forum?id=56IzghzjfZ"
+      },
+      {
+        "label": "Code",
+        "url": "https://haojhuang.github.io/imagine_page/"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/playlist?list=PLtEvDdcT-Ai-Pn9Rx3Lph1ml1xzhTpcRj"
+      },
+      {
+        "label": "Website",
+        "url": "https://haojhuang.github.io/imagine_page/"
+      }
+    ]
+  },
+  {
+    "id": "arsh_offline",
+    "title": "Equivariant Offline Reinforcement Learning",
+    "authors": [
+      "Arsh Tangri",
+      "Ondrej Biza",
+      "Dian Wang",
+      "David Klee",
+      "Owen Howell",
+      "Robert Platt"
+    ],
+    "year": "2024",
+    "date": "2024-06-20T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "Preprint",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/equivariant_offline.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2406.13961"
+      }
+    ]
+  },
+  {
+    "id": "colin_symforce",
+    "title": "Symmetric Models for Visual Force Policy Learning",
+    "authors": [
+      "Colin Kohler",
+      "Anuj Shrivatsav Srikanth",
+      "Eshan Arora",
+      "Robert Platt"
+    ],
+    "year": "2024",
+    "date": "2024-05-13T00:00:00Z",
+    "venue": "ICRA 2024",
+    "venue_full": "ICRA 2024",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/colin_symforce.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2308.14670"
+      }
+    ]
+  },
+  {
+    "id": "haojie_fourtran",
+    "title": "Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D",
+    "authors": [
+      "Haojie Huang",
+      "Owen Howell",
+      "Dian Wang",
+      "Xupeng Zhu",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2024",
+    "date": "2024-03-15T00:00:00Z",
+    "venue": "ICLR 2024",
+    "venue_full": "In ICLR 2024",
+    "kind": "conference",
+    "abstract": "Many complex robotic manipulation tasks can be decomposed as a sequence of pick and place actions. Training a robotic agent to learn this sequence over many different starting conditions typically requires many iterations or demonstrations, especially in 3D environments. In this work, we propose Fourier Transporter (FourTran), which leverages the two-fold SE(d)xSE(d)  symmetry in the pick-place problem to achieve much higher sample efficiency. FourTran is an open-loop behavior cloning method trained using expert demonstrations to predict pick-place actions on new configurations. FourTran is constrained by the symmetries of the pick and place actions independently. Our method utilizes a fiber space Fourier transformation that allows for memory-efficient computation. Tests on the RLbench benchmark achieve state-of-the-art results across various tasks..",
+    "thumb": "img/pubs/haojie_fourtran.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2401.12046.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://haojhuang.github.io/fourtran_page/"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtube.com/playlist?list=PLtEvDdcT-Ai8irdlBB7wDsfOuOIZo1ZM2&si=4Ck7K-wnwjHv9P78"
+      },
+      {
+        "label": "Website",
+        "url": "https://haojhuang.github.io/fourtran_page/"
+      }
+    ]
+  },
+  {
+    "id": "haojie_IJRR",
+    "title": "Leveraging Symmetries in Pick and Place",
+    "authors": [
+      "Haojie Huang",
+      "Dian Wang",
+      "Arshi Tangri",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2024",
+    "date": "2024-01-02T00:00:00Z",
+    "venue": "IJRR 2024",
+    "venue_full": "In International Journal of Robotics Research 2024",
+    "kind": "journal",
+    "abstract": "Robotic pick and place tasks are symmetric under translations and rotations of both the object to be picked and the desired place pose. For example, if the pick object is rotated or translated, then the optimal pick action should also rotate or translate. The same is true for the place pose; if the desired place pose changes, then the place action should also transform accordingly. A recently proposed pick and place framework known as Transporter Net captures some of these symmetries, but not all. This paper analytically studies the symmetries present in planar robotic pick and place and proposes a method of incorporating equivariant neural models into Transporter Net in a way that captures all symmetries. The new model, which we call Equivariant Transporter Net, is equivariant to both pick and place symmetries and can immediately generalize pick and place knowledge to different pick and place poses. We evaluate the new model empirically and show that it is much more sample efficient than the non-symmetric version, resulting in a system that can imitate demonstrated pick and place behavior using very few human demonstrations on a variety of imitation learning tasks.",
+    "thumb": "img/pubs/haojie_IJRR.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2308.07948"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/HaojHuang/Equivariant-Transporter-Net"
+      }
+    ]
+  },
+  {
+    "id": "dian_extrinsic_theory",
+    "title": "A General Theory of Correct, Incorrect, and Extrinsic Equivariance",
+    "authors": [
+      "Dian Wang",
+      "Xupeng Zhu",
+      "Jung Yeon Park",
+      "Mingxi Jia",
+      "Guanang Su",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2023",
+    "date": "2023-12-10T00:00:00Z",
+    "venue": "NeurIPS 2023",
+    "venue_full": "In Conference on Neural Information Processing Systems 2023",
+    "kind": "conference",
+    "abstract": "Although equivariant machine learning has proven effective at many tasks, success depends heavily on the assumption that the ground truth function is symmetric over the entire domain matching the symmetry in an equivariant neural network. A missing piece in the equivariant learning literature is the analysis of equivariant networks when symmetry exists only partially in the domain. In this work, we present a general theory for such a situation. We propose pointwise definitions of correct, incorrect, and extrinsic equivariance, which allow us to quantify continuously the degree of each type of equivariance a function displays. We then study the impact of various degrees of incorrect or extrinsic symmetry on model error. We prove error lower bounds for invariant or equivariant networks in classification or regression settings with partially incorrect symmetry. We also analyze the potentially harmful effects of extrinsic equivariance. Experiments validate these results in three different environments.",
+    "thumb": "img/pubs/dian_extrinsic_theory.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2303.04745.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_iw",
+    "title": "One-shot Imitation Learning via Interaction Warping",
+    "authors": [
+      "Ondrej Biza",
+      "Skye Thompson",
+      "Kishore Reddy Pagidi",
+      "Abhinav Kumar",
+      "Elise van der Pol",
+      "Robin Walters",
+      "Thomas Kipf",
+      "Jan-Willem van de Meent",
+      "Lawson L.S. Wong",
+      "Robert Platt"
+    ],
+    "year": "2023",
+    "date": "2023-11-05T00:00:00Z",
+    "venue": "CoRL 2023",
+    "venue_full": "In Proceedings of the 7th Conference on Robot Learning (CoRL 2023)",
+    "kind": "conference",
+    "abstract": "Imitation learning of robot policies from few demonstrations is crucial in open-ended applications. We propose a new method, Interaction Warping, for learning SE(3) robotic manipulation policies from a single demonstration. We infer the 3D mesh of each object in the environment using shape warping, a technique for aligning point clouds across object instances. Then, we represent manipulation actions as keypoints on objects, which can be warped with the shape of the object. We show successful one-shot imitation learning on three simulated and real-world object re-arrangement tasks. We also demonstrate the ability of our method to predict object meshes and robot grasps in the wild.",
+    "thumb": "img/pubs/ondrej_iw.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_iw/biza23iw.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://shapewarping.github.io"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_isa",
+    "title": "Invariant Slot Attention: Object Discovery with Slot-Centric Reference Frames",
+    "authors": [
+      "Ondrej Biza",
+      "Sjoerd van Steenkiste",
+      "Mehdi S. M. Sajjadi",
+      "Gamaleldin F. Elsayed",
+      "Aravindh Mahendran",
+      "Thomas Kipf"
+    ],
+    "year": "2023",
+    "date": "2023-11-05T00:00:00Z",
+    "venue": "ICML 2023",
+    "venue_full": "In Proceedings of the 40th International Conference on Machine Learning",
+    "kind": "conference",
+    "abstract": "Automatically discovering composable abstractions from raw perceptual data is a long-standing challenge in machine learning. Recent slot-based neural networks that learn about objects in a self-supervised manner have made exciting progress in this direction. However, they typically fall short at adequately capturing spatial symmetries present in the visual world, which leads to sample inefficiency, such as when entangling object appearance and pose. In this paper, we present a simple yet highly effective method for incorporating spatial symmetries via slot-centric reference frames. We incorporate equivariance to per-object pose transformations into the attention and generation mechanism of Slot Attention by translating, scaling, and rotating position encodings. These changes result in little computational overhead, are easy to implement, and can result in large gains in terms of data efficiency and overall improvements to object discovery. We evaluate our method on a wide range of synthetic object discovery benchmarks namely CLEVR, Tetrominoes, CLEVRTex, Objects Room and MultiShapeNet, and show promising improvements on the challenging real-world Waymo Open dataset.",
+    "thumb": "img/pubs/ondrej_isa.gif",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_isa/biza23isa.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://invariantsa.github.io"
+      }
+    ]
+  },
+  {
+    "id": "hai_equi",
+    "title": "Equivariant Reinforcement Learning under Partial Observability",
+    "authors": [
+      "Hai Nguyen",
+      "Andrea Baisero",
+      "David Klee",
+      "Dian Wang",
+      "Robert Platt",
+      "Christopher Amato"
+    ],
+    "year": "2023",
+    "date": "2023-10-14T00:00:00Z",
+    "venue": "CoRL 2023",
+    "venue_full": "In 7th Annual Conference on Robot Learning",
+    "kind": "conference",
+    "abstract": "Incorporating inductive biases is a promising approach for tackling challenging robot learning domains with sample-efficient solutions. This paper identifies partially observable domains where symmetries can be a useful inductive bias for efficient learning. Specifically, by encoding the equivariance regarding specific group symmetries into the neural networks, our actor-critic reinforcement learning agents can reuse solutions in the past for related scenarios. Consequently, our equivariant agents outperform non-equivariant approaches significantly in terms of sample efficiency and final performance, demonstrated through experiments on a range of robotic tasks in simulation and real hardware.",
+    "thumb": "img/pubs/hai_equi.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/forum?id=AnDDMQgM7-&referrer=%5Bthe%20profile%20of%20Christopher%20Amato%5D%28%2Fprofile%3Fid%3D~Christopher_Amato1%29"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/hai-h-nguyen/equi-rl-for-pomdps"
+      },
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/view/equi-rl-pomdp"
+      }
+    ]
+  },
+  {
+    "id": "xupeng_sym_grasp",
+    "title": "On Robot Grasp Learning Using Equivariant Models",
+    "authors": [
+      "Xupeng Zhu",
+      "Dian Wang",
+      "Guanang Su",
+      "Ondrej Biza",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2023",
+    "date": "2023-07-04T00:00:00Z",
+    "venue": "Autonomous Robots",
+    "venue_full": "In Autonomous Robots",
+    "kind": "journal",
+    "abstract": "Real-world grasp detection is challenging due to the stochasticity in grasp dynamics and the noise in hardware. Ideally, the system would adapt to the real world by training directly on physical systems. However, this is generally difficult due to the large amount of training data required by most grasp learning models. In this paper, we note that the planar grasp function is SE(2)-equivariant and demonstrate that this structure can be used to constrain the neural network used during learning. This creates an inductive bias that can significantly improve the sample efficiency of grasp learning and enable end-to-end training from scratch on a physical robot with as few as 600 grasp attempts. We call this method Symmetric Grasp learning (SymGrasp) and show that it can learn to grasp “from scratch” in less that 1.5 h of physical robot time. This paper represents an expanded and revised version of the conference paper Zhu et al. (2022).",
+    "thumb": "img/pubs/xupeng_sym_grasp.jpeg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://link.springer.com/article/10.1007/s10514-023-10112-w"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning"
+      },
+      {
+        "label": "Website",
+        "url": "https://zxp-s-works.github.io/equivariant_grasp_site/"
+      }
+    ]
+  },
+  {
+    "id": "dian_extrinsic",
+    "title": "The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry",
+    "authors": [
+      "Dian Wang",
+      "Jung Yeon Park",
+      "Neel Sortur",
+      "Lawson L.S. Wong",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2023",
+    "date": "2023-05-01T00:00:00Z",
+    "venue": "ICLR 2023",
+    "venue_full": "In International Conference on Learning Representations 2023",
+    "kind": "conference",
+    "abstract": "Extensive work has demonstrated that equivariant neural networks can significantly improve sample efficiency and generalization by enforcing an inductive bias in the network architecture. These applications typically assume that the domain symmetry is fully described by explicit transformations of the model inputs and outputs. However, many real-life applications contain only latent or partial symmetries which cannot be easily described by simple transformations of the input. In these cases, it is necessary to learn symmetry in the environment instead of imposing it mathematically on the network architecture. We discover, surprisingly, that imposing equivariance constraints that do not exactly match the domain symmetry is very helpful in learning the true symmetry in the environment. We differentiate between extrinsic and incorrect symmetry constraints and show that while imposing incorrect symmetry can impede the model's performance, imposing extrinsic symmetry can actually improve performance. We demonstrate that an equivariant model can significantly outperform non-equivariant methods on domains with latent symmetries both in supervised learning and in reinforcement learning for robotic manipulation and control problems.",
+    "thumb": "img/pubs/dian_extrinsic.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2211.09231.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=US4uWndGx9I"
+      },
+      {
+        "label": "Website",
+        "url": "https://pointw.github.io/extrinsic_page/"
+      },
+      {
+        "label": "Talk",
+        "url": "https://www.youtube.com/watch?v=QYSb_hueDHI"
+      }
+    ]
+  },
+  {
+    "id": "klee_i2s",
+    "title": "Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction",
+    "authors": [
+      "David Klee",
+      "Ondrej Biza",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2023",
+    "date": "2023-03-30T00:00:00Z",
+    "venue": "ICLR 2023",
+    "venue_full": "In International Conference on Learning Representations",
+    "kind": "conference",
+    "abstract": "Predicting the pose of objects from a single image is an important but difficult computer vision problem. Methods that predict a single point estimate do not predict the pose of objects with symmetries well and cannot represent uncertainty. Alternatively, some works predict a distribution over orientations in SO(3). However, training such models can be computation- and sample-inefficient. Instead, we propose a novel mapping of features from the image domain to the 3D rotation manifold. Our method then leverages SO(3) equivariant layers, which are more sample efficient, and outputs a distribution over rotations that can be sampled at arbitrary resolution. We demonstrate the effectiveness of our method at object orientation prediction, and achieve state-of-the-art performance on the popular PASCAL3D+ dataset. Moreover, we show that our method can model complex object symmetries, without any modifications to the parameters or loss function.",
+    "thumb": "img/pubs/klee_i2s.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2302.13926"
+      },
+      {
+        "label": "Website",
+        "url": "https://dmklee.github.io/image2sphere"
+      }
+    ]
+  },
+  {
+    "id": "Mingxi_SEIL",
+    "title": "SEIL: Simulation-augmented Equivariant Imitation Learning",
+    "authors": [
+      "Mingxi Jia*",
+      "Dian Wang*",
+      "Guanang Su",
+      "David Klee",
+      "Xupeng Zhu",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2023",
+    "date": "2023-01-16T00:00:00Z",
+    "venue": "ICRA 2023",
+    "venue_full": "In 2023 IEEE International Conference on Robotics and Automation",
+    "kind": "conference",
+    "abstract": "In robotic manipulation, acquiring samples is extremely expensive because it often requires interacting with the real world.  Traditional image-level data augmentation has shown the potential to improve sample efficiency in various machine learning tasks. However, image-level data augmentation is insufficient for an imitation learning agent to learn good manipulation policies in a reasonable amount of demonstrations. We propose Simulation-augmented Equivariant Imitation Learning (SEIL), a method that combines a novel data augmentation strategy of supplementing expert trajectories with simulated transitions and an equivariant model that exploits the O(2) symmetry in robotic manipulation. Experimental evaluations demonstrate that our method can learn non-trivial manipulation tasks within ten demonstrations and outperforms the baselines with a significant margin.",
+    "thumb": "img/pubs/Mingxi_SEIL.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2211.00194"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=UHUmq-cOMh4"
+      },
+      {
+        "label": "Website",
+        "url": "https://saulbatman.github.io/project/seil/"
+      }
+    ]
+  },
+  {
+    "id": "haojie_edge_grasp",
+    "title": "Edge Grasp Network: A Graph-Based SE(3)-invariant Approach to Grasp Detection",
+    "authors": [
+      "Haojie Huang",
+      "Dian Wang",
+      "Xupeng Zhu",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2023",
+    "date": "2023-01-15T00:00:00Z",
+    "venue": "ICRA 2023",
+    "venue_full": "In ICRA 2023",
+    "kind": "conference",
+    "abstract": "Given point cloud input, the problem of 6-DoF grasp pose detection is to identify a set of hand posed in SE(3) from which an object can be successful grasped. This important problem has many practical applications. Here we propose a novel method and neural network that enables better grasp success rates relative to what is available in the literature. The method takes standard point cloud data as input and works well with single-view point cloud observed fromm arbitrary viewing directions.",
+    "thumb": "img/pubs/haojie_edge_grasp.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2211.00191.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/HaojHuang/Edge-Grasp-Network"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/playlist?list=PLtEvDdcT-Ai9L4HPG1F3YHGOUK4qi2Yiz"
+      },
+      {
+        "label": "Poster",
+        "url": "https://openreview.net/attachment?id=eDKsmFSB6-&name=poster"
+      },
+      {
+        "label": "Website",
+        "url": "https://haojhuang.github.io/edge_grasp_page/"
+      }
+    ]
+  },
+  {
+    "id": "dian_equi_robot",
+    "title": "On-Robot Learning With Equivariant Models",
+    "authors": [
+      "Dian Wang",
+      "Mingxi Jia",
+      "Xupeng Zhu",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-12-14T00:00:00Z",
+    "venue": "CoRL 2022",
+    "venue_full": "In 6th Annual Conference on Robot Learning",
+    "kind": "conference",
+    "abstract": "Recently, equivariant neural network models have been shown to be useful in improving sample efficiency for tasks in computer vision and reinforcement learning. This paper explores this idea in the context of on-robot policy learning where a policy must be learned entirely on a physical robotic system without reference to a model, a simulator, or an offline dataset. We focus on applications of SO(2)-Equivariant SAC to robotic manipulation and explore a number of variations of the algorithm. Ultimately, we demonstrate the ability to learn several non-trivial manipulation tasks completely through on-robot experiences in less than an hour or two of wall clock time.",
+    "thumb": "img/pubs/dian_equi_robot.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2203.04923.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=HDYoOXMojkY"
+      },
+      {
+        "label": "Website",
+        "url": "https://pointw.github.io/equi_robot_page/"
+      }
+    ]
+  },
+  {
+    "id": "klee_i2i",
+    "title": "Image to Icosahedral Projection for SO(3) Object Reasoning from Single-View Images",
+    "authors": [
+      "David Klee",
+      "Ondrej Biza",
+      "Robert Platt",
+      "Robin Walters"
+    ],
+    "year": "2022",
+    "date": "2022-11-30T00:00:00Z",
+    "venue": "PMLR",
+    "venue_full": "In PMLR Volume on Symmetry and Geometry in Neural Representations",
+    "kind": "journal",
+    "abstract": "Reasoning about 3D objects based on 2D images is challenging due to variations in appearance caused by viewing the object from different orientations. Tasks such as object classification are invariant to 3D rotations and other such as pose estimation are equivariant. However, imposing equivariance as a model constraint is typically not possible with 2D image input because we do not have an a priori model of how the image changes under out-of-plane object rotations. The only $\\mathrm{SO}(3)$-equivariant models that currently exist require point cloud or voxel input rather than 2D images. In this paper, we propose a novel architecture based on icosahedral group convolutions that reasons in $\\mathrm{SO(3)}$ by learning a projection of the input image onto an icosahedron. The resulting model is approximately equivariant to rotation in $\\mathrm{SO}(3)$. We apply this model to object pose estimation and shape classification tasks and find that it outperforms reasonable baselines.",
+    "thumb": "img/pubs/klee_i2i.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2207.08925"
+      },
+      {
+        "label": "Website",
+        "url": "https://dmklee.github.io/image2icosahedral"
+      }
+    ]
+  },
+  {
+    "id": "rob_graspreview",
+    "title": "Grasp Learning: Models, Methods, and Performance",
+    "authors": [
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-11-01T00:00:00Z",
+    "venue": "Annual Review of Control, Robotics, and Autonomous Systems, Vol 6",
+    "venue_full": "In Annual Review of Control, Robotics, and Autonomous Systems, Vol 6",
+    "kind": "chapter",
+    "abstract": "Grasp learning has become an exciting and important topic in robotics. Just a few years ago, the problem of grasping novel objects from unstructured piles of clutter was considered a serious research challenge. Now, it is a capability that is quickly being incorporated into industrial supply chain automation. How did that happen? What is the current state of the art in robotic grasp learning, what are the different methodological approaches, and what machine learning models are used? This review attempts to give an overview of the current state of the art of grasp learning research.",
+    "thumb": "img/pubs/rob_graspreview.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/rob_graspreview/rob_graspreview2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "dian_bulletarm",
+    "title": "BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework",
+    "authors": [
+      "Dian Wang",
+      "Colin Kohler",
+      "Xupeng Zhu",
+      "Mingxi Jia",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-09-25T00:00:00Z",
+    "venue": "ISRR 2022",
+    "venue_full": "The International Symposium on Robotics Research 2022",
+    "kind": "journal",
+    "abstract": "",
+    "thumb": "img/pubs/dian_bulletarm.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2205.14292.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ColinKohler/BulletArm"
+      },
+      {
+        "label": "Website",
+        "url": "https://colinkohler.github.io/BulletArm/"
+      }
+    ]
+  },
+  {
+    "id": "hai_cosil",
+    "title": "Leveraging Fully Observable Policies for Learning under Partial Observability",
+    "authors": [
+      "Hai Nguyen",
+      "Andrea Baisero",
+      "Dian Wang",
+      "Christopher Amato",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-09-10T00:00:00Z",
+    "venue": "CoRL 2022",
+    "venue_full": "In 6th Annual Conference on Robot Learning",
+    "kind": "conference",
+    "abstract": "Reinforcement learning in partially observable domains is challenging due to the lack of observable state information. Thankfully, learning offline in a simulator with such state information is often possible. In particular, we propose a method for partially observable reinforcement learning that uses a fully observable policy (which we call a state expert) during offline training to improve online performance. Based on Soft Actor-Critic (SAC), our agent balances performing actions similar to the state expert and getting high returns under partial observability. Our approach can leverage the fully-observable policy for exploration and parts of the domain that are fully observable while still being able to learn under partial observability. On six robotics domains, our method outperforms pure imitation, pure reinforcement learning, the sequential or parallel combination of both types, and a recent state-of-the-art method in the same setting. A successful policy transfer to a physical robot in a manipulation task from pixels shows our approach's practicality in learning interesting policies under partial observability.",
+    "thumb": "img/pubs/hai_cosil.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=pn-HOPBioUE"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/hai-h-nguyen/cosil-corl22"
+      },
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/view/cosil-corl22"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_sen",
+    "title": "Learning Symmetric Embeddings for Equivariant World Models",
+    "authors": [
+      "Jung Yeon Park",
+      "Ondrej Biza",
+      "Linfeng Zhao",
+      "Jan Willem van de Meent",
+      "Robin Walters"
+    ],
+    "year": "2022",
+    "date": "2022-08-01T00:00:00Z",
+    "venue": "ICML 2022",
+    "venue_full": "In Proceedings of the 39th International Conference on Machine Learning",
+    "kind": "conference",
+    "abstract": "Incorporating symmetries can lead to highly data-efficient and generalizable models by defining equivalence classes of data samples related by transformations. However, characterizing how transformations act on input data is often difficult, limiting the applicability of equivariant models. We propose learning symmetric embedding networks (SENs) that encode an input space (e.g. images), where we do not know the effect of transformations (e.g. rotations), to a feature space that transforms in a known manner under these operations. This network can be trained end-to-end with an equivariant task network to learn an explicitly symmetric representation. We validate this approach in the context of equivariant transition models with 3 distinct forms of symmetry. Our experiments demonstrate that SENs facilitate the application of equivariant networks to data with complex symmetry representations. Moreover, doing so can yield improvements in accuracy and generalization relative to both fully-equivariant and non-equivariant baselines.",
+    "thumb": "img/pubs/ondrej_sen.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_sen/biza22sen.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/jypark0/sen"
+      }
+    ]
+  },
+  {
+    "id": "ckohler_ldm",
+    "title": "Visual Foresight With a Local Dynamics Model",
+    "authors": [
+      "Colin Kohler",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-07-19T00:00:00Z",
+    "venue": "ISRR 2022",
+    "venue_full": "The International Symposium on Robotics Research 2022",
+    "kind": "conference",
+    "abstract": "",
+    "thumb": "img/pubs/ckohler_ldm.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2206.14802.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ColinKohler/LocalDynamicsModel"
+      },
+      {
+        "label": "Website",
+        "url": "https://colinkohler.github.io/LocalDynamicsModel/"
+      }
+    ]
+  },
+  {
+    "id": "klee_shiftequivrl",
+    "title": "Understanding the Mechanism behind Data Augmentation's Success on Image Based RL",
+    "authors": [
+      "David Klee",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-06-11T00:00:00Z",
+    "venue": "RLDM 2022",
+    "venue_full": "In RLDM'22",
+    "kind": "preprint",
+    "abstract": "Reinforcement learning for continuous control tasks is challenging with image observations, due to the representation learning problem. A series of recent work has shown that augmenting the observations via random shifts during training significantly improves performance, even matching state-based methods. However, it is not well-understood why augmentation is so beneficial; since the method uses a nearly-shift equivariant convolutional encoder, shifting the input should have little impact on what features are learned. In this work, we investigate why random shifts are useful augmentations for image-based RL and show that it increases both the shift-equivariance and shift-invariance of the encoder. In other words, the visual features learned exhibit spatial continuity, which we show can be partially achieved using dropout. We hypothesize that the spatial continuity of the visual encoding simplifies learning for the subsequent linear layers in the actor-critic networks.",
+    "thumb": "img/pubs/klee_shiftequivrl.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://dmklee.github.io/assets/publications/data_aug/paper.pdf"
+      },
+      {
+        "label": "Poster",
+        "url": "https://dmklee.github.io/assets/publications/data_aug/poster.pdf"
+      }
+    ]
+  },
+  {
+    "id": "klee_graphstructuredmanip",
+    "title": "Graph-Structured Policy Learning for Multi-Goal Manipulation Tasks",
+    "authors": [
+      "David Klee",
+      "Ondrej Biza",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-06-11T00:00:00Z",
+    "venue": "IROS 2022",
+    "venue_full": "In IROS'22",
+    "kind": "conference",
+    "abstract": "Multi-goal policy learning for robotic manipulation is challenging. Prior successes have used state-based representations of the objects or provided demonstration data to facilitate learning. In this paper, by hand-coding a high-level discrete representation of the domain, we show that policies to reach dozens of goals can be learned with a single network using Q-learning from pixels. The agent focuses learning on simpler, local policies which are sequenced together by planning in the abstract space. We compare our method against standard multi-goal RL baselines, as well as other methods that leverage the discrete representation, on a challenging block construction domain. We find that our method can build more than a hundred different block structures, and demonstrate forward transfer to structures with novel objects. Lastly, we deploy the policy learned in simulation on a real robot.",
+    "thumb": "img/pubs/klee_graphstructuredmanip.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2207.11313"
+      },
+      {
+        "label": "Website",
+        "url": "https://dmklee.github.io/graph-structured-manip"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_binding",
+    "title": "Binding Actions to Objects in World Models",
+    "authors": [
+      "Ondrej Biza",
+      "Robert Platt",
+      "Jan-Willem van de Meent",
+      "Lawson L. S. Wong",
+      "Thomas Kipf"
+    ],
+    "year": "2022",
+    "date": "2022-04-29T00:00:00Z",
+    "venue": "ICLR 2022 WOSC",
+    "venue_full": "In ICLR 2022 workshop on Objects, Structure and Causality",
+    "kind": "report",
+    "abstract": "We study the problem of binding actions to objects in object-factored world models using action-attention mechanisms. We propose two attention mechanisms for binding actions to objects, soft attention and hard attention, which we evaluate in the context of structured world models for five environments. Our experiments show that hard attention helps contrastively-trained structured world models to learn to separate individual objects in an object-based grid-world environment. Further, we show that soft attention increases performance of factored world models trained on a robotic manipulation task. The learned action attention weights can be used to interpret the factored world model as the attention focuses on the manipulated object in the environment.",
+    "thumb": "img/pubs/ondrej_binding.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_binding/biza22binding.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ondrejba/action_attention_iclr_22"
+      }
+    ]
+  },
+  {
+    "id": "dian_equi_rl",
+    "title": "SO(2) Equivariant Reinforcement Learning",
+    "authors": [
+      "Dian Wang",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-04-25T00:00:00Z",
+    "venue": "ICLR 2022",
+    "venue_full": "In The Tenth International Conference on Learning Representations",
+    "kind": "conference",
+    "abstract": "Equivariant neural networks enforce symmetry within the structure of their convolutional layers, resulting in a substantial improvement in sample efficiency when learning an equivariant or invariant function. Such models are applicable to robotic manipulation learning which can often be formulated as a rotationally symmetric problem. This paper studies equivariant model architectures in the context of Q-learning and actor-critic reinforcement learning. We identify equivariant and invariant characteristics of the optimal Q-function and the optimal policy and propose equivariant DQN and SAC algorithms that leverage this structure. We present experiments that demonstrate that our equivariant versions of DQN and SAC can be significantly more sample efficient than competing algorithms on an important class of robotic manipulation problems.",
+    "thumb": "img/pubs/dian_equi_rl.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2203.04439.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/equi_rl"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/8Ocwv2nnSKI"
+      },
+      {
+        "label": "Website",
+        "url": "https://pointw.github.io/equi_rl_page/"
+      }
+    ]
+  },
+  {
+    "id": "haojie_ETP",
+    "title": "Equivariant Transporter Network",
+    "authors": [
+      "Haojie Huang",
+      "Dian Wang",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-04-25T00:00:00Z",
+    "venue": "RSS 2022",
+    "venue_full": "In Robotics Science and Systems 2022",
+    "kind": "conference",
+    "abstract": "Many challenging robotic manipulation problems can be viewed through the lens of a sequence of pick and pick-conditioned place actions. Recently, [Transporter Net](https://arxiv.org/pdf/2010.14406.pdf) proposed a framework for pick and place that is able to learn good manipulation policies from a very few expert demonstrations. A key reason why Transporter Net is so sample efficient is that the model incorporates rotational equivariance into the pick-conditioned place module, i.e., the model immediately generalizes learned pick-place knowledge to objects presented in different pick orientations. This work proposes a novel version of Transporter Net that is equivariant to both pick and place orientation. As a result, our model immediately generalizes pick-place knowledge to different place orientations in addition to generalizing pick orientation as before. Ultimately, our new model is more sample efficient and achieves better pick and place success rates than the baseline Transporter Net model. Our experiments show that only with 10 expert demonstrations, Equivariant Transporter Net can achieve greater than 95% success rate on 7/10 tasks of unseen configurations of Ravens-10 Benchmark. Finally, we augment our model with the ability to grasp using a parallel-jaw gripper rather than just a suction cup and demonstrate it on both simulation tasks and a real robot.",
+    "thumb": "img/pubs/haojie_ETP.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2202.09400"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/HaojHuang/Equivariant-Transporter-Net"
+      },
+      {
+        "label": "Website",
+        "url": "https://haojhuang.github.io/etp_page/"
+      }
+    ]
+  },
+  {
+    "id": "hai_hilmo",
+    "title": "Hierarchical Reinforcement Learning under Mixed Observability",
+    "authors": [
+      "Hai Nguyen",
+      "Zhihan Yang",
+      "Andrea Baisero",
+      "Xiao Ma",
+      "Robert Platt",
+      "Christopher Amato"
+    ],
+    "year": "2022",
+    "date": "2022-03-31T00:00:00Z",
+    "venue": "WAFR 2022",
+    "venue_full": "In the 15th International Workshop on the Algorithmic Foundations of Robotics",
+    "kind": "conference",
+    "abstract": "The framework of mixed observable Markov decision processes (MOMDP) models many robotic domains in which some state variables are fully observable while others are not. In this work, we identify a significant subclass of MOMDPs defined by how actions influence the fully observable components of the state and how those, in turn, influence the partially observable components and the rewards. This unique property allows for a two-level hierarchical approach we call HIerarchical Reinforcement Learning under Mixed Observability (HILMO), which restricts partial observability to the top level while the bottom level remains fully observable, enabling higher learning efficiency. The top level produces desired goals to be reached by the bottom level until the task is solved. We further develop theoretical guarantees to show that our approach can achieve optimal and quasi-optimal behavior under mild assumptions. Empirical results on long-horizon continuous control tasks demonstrate the efficacy and efficiency of our approach in terms of improved success rate, sample efficiency, and wall-clock training time. We also deploy policies learned in simulation on a real robot.",
+    "thumb": "img/pubs/hai_hilmo.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2204.00898"
+      },
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/view/hilmo-wafr"
+      }
+    ]
+  },
+  {
+    "id": "xupeng_SE(2)_grasp",
+    "title": "Sample Efficient Grasp Learning Using Equivariant Models",
+    "authors": [
+      "Xupeng Zhu",
+      "Dian Wang",
+      "Ondrej Biza",
+      "Guanang Su",
+      "Robin Walters",
+      "Robert Platt"
+    ],
+    "year": "2022",
+    "date": "2022-02-22T00:00:00Z",
+    "venue": "RSS 2022",
+    "venue_full": "In Robotics Science and Systems 2022",
+    "kind": "conference",
+    "abstract": "In planar grasp detection, the goal is to learn a function from an image of a scene onto a set of feasible grasp poses in SE(2). In this paper, we recognize that the optimal grasp function is SE(2)-equivariant and can be modeled using an equivariant convolutional neural network. As a result, we are able to significantly improve the sample efficiency of grasp learning, obtaining a good approximation of the grasp function after only 600 grasp attempts. This is few enough that we can learn to grasp completely on a physical robot in about 1.5 hours.",
+    "thumb": "img/pubs/xupeng_SE(2)_grasp.jpeg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2202.09468"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning"
+      },
+      {
+        "label": "Website",
+        "url": "https://zxp-s-works.github.io/equivariant_grasp_site/"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_factored",
+    "title": "Binding Actions to Objects in World Models",
+    "authors": [
+      "Ondrej Biza",
+      "Thomas Kipf",
+      "David Klee",
+      "Robert Platt",
+      "Jan-Willem van de Meent",
+      "Lawson L. S. Wong"
+    ],
+    "year": "2022",
+    "date": "2022-02-01T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "In Preprint",
+    "kind": "preprint",
+    "abstract": "World models for environments with many objects face a combinatorial explosion of states: as the number of objects increases, the number of possible arrangements grows exponentially. In this paper, we learn to generalize over robotic pick-and-place tasks using object-factored world models, which combat the combinatorial explosion by ensuring that predictions are equivariant to permutations of objects. Previous object-factored models were limited either by their inability to model actions, or by their inability to plan for complex manipulation tasks. We build on recent contrastive methods for training object-factored world models, which we extend to model continuous robot actions and to accurately predict the physics of robotic pick-and-place. To do so, we use a residual stack of graph neural networks that receive action information at multiple levels in both their node and edge neural networks. Crucially, our learned model can make predictions about tasks not represented in the training data. That is, we demonstrate successful zero-shot generalization to novel tasks, with only a minor decrease in model performance. Moreover, we show that an ensemble of our models can be used to plan for tasks involving up to 12 pick and place actions using heuristic search. We also demonstrate transfer to a physical robot.",
+    "thumb": "img/pubs/ondrej_factored.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_factored/biza22factored.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tarik_tapm",
+    "title": "Tactile Pose Estimation and Policy Learning for Unknown Object Manipulation",
+    "authors": [
+      "Tarik Kelestemur",
+      "Robert Platt",
+      "Taskin Padir"
+    ],
+    "year": "2022",
+    "date": "2022-01-16T00:00:00Z",
+    "venue": "AAMAS 2022",
+    "venue_full": "In International Conference on Autonomous Agents and Multiagent Systems",
+    "kind": "conference",
+    "abstract": "Object pose estimation methods allow finding locations of objects in unstructured environments. This is a highly desired skill for au- tonomous robot manipulation as robots need to estimate the precise poses of the objects in order to manipulate them. In this paper, we investigate the problems of tactile pose estimation and manipula- tion for category-level objects. Our proposed method uses a Bayes filter with a learned tactile observation model and a deterministic motion model. Later, we train policies using deep reinforcement learning where the agents use the belief estimation from the Bayes filter. Our models are trained in simulation and transferred to the real world. We analyze the reliability and the performance of our framework through a series of simulated and real-world experi- ments and compare our method to the baseline work. Our results show that the learned tactile observation model can localize the pose of novel objects at 2-mm and 1-degree resolution for position and orientation, respectively. Furthermore, we experiment on a bottle opening task where the gripper needs to reach the desired grasp state",
+    "thumb": "img/pubs/tarik_tapm.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2203.10685"
+      },
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/view/tpem/"
+      }
+    ]
+  },
+  {
+    "id": "tarik_vctm",
+    "title": "Policy Learning for Visually Conditioned Tactile Manipulation",
+    "authors": [
+      "Tarik Kelestemur",
+      "Taskin Padir",
+      "Robert Platt"
+    ],
+    "year": "2021",
+    "date": "2021-12-16T00:00:00Z",
+    "venue": "IROS 2021",
+    "venue_full": "In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "kind": "conference",
+    "abstract": "Recent work on robot learning with visual observations has shown great success in solving many manipulation tasks. While visual observations contain rich information about the environment and the robot, they can be unreliable in the presence of visual noise or occlusions. In these cases, we can leverage tactile observations generated by the interaction between the robot and the environment. In this paper, we propose a framework for learning manipulation policies that fuse visual and tactile feedback. The control problems considered in this work are to localize a gripper with respect to the environment image and navigate to desired states. Our method uses a learned Bayes filter to estimate the state of a gripper by conditioning the tactile observations on the environment image. We use deep reinforcement learning for solving the localization and navigation problems provided with the belief of the gripper’s state and the environment image. We compare our method against two baselines where the agent uses tactile observation directly with a recurrent neural network or uses a point estimate of the state instead of the full belief state. We also transfer the policies to the real world and validate them on a physical robot.",
+    "thumb": "img/pubs/tarik_vctm.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9636866"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/it9DJaT6LSM"
+      },
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/view/vctm/"
+      }
+    ]
+  },
+  {
+    "id": "dian_equi_q",
+    "title": "Equivariant Q Learning in Spatial Action Spaces",
+    "authors": [
+      "Dian Wang",
+      "Robin Walters",
+      "Xupeng Zhu",
+      "Robert Platt"
+    ],
+    "year": "2021",
+    "date": "2021-11-08T00:00:00Z",
+    "venue": "CoRL 2021",
+    "venue_full": "In 5th Annual Conference on Robot Learning",
+    "kind": "conference",
+    "abstract": "Recently, a variety of new equivariant neural network model architectures have been proposed that generalize better over rotational and reflectional symmetries than standard models. These models are relevant to robotics because many robotics problems can be expressed in a rotationally symmetric way. This paper focuses on equivariance over a visual state space and a spatial action space – the setting where the robot action space includes a subset of SE(2). In this situation, we know a priori that rotations and translations in the state image should result in the same rotations and translations in the spatial action dimensions of the optimal policy. Therefore, we can use equivariant model architectures to make Q learning more sample efficient. This paper identifies when the optimal Q function is equivariant and proposes Q network architectures for this setting. We show experimentally that this approach outperforms standard methods in a set of challenging manipulation problems.",
+    "thumb": "img/pubs/dian_equi_q.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2110.15443.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/equi_q_corl21"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=GtdpvjLHc_Q"
+      },
+      {
+        "label": "Poster",
+        "url": "https://openreview.net/attachment?id=IScz42A3iCI&name=poster"
+      },
+      {
+        "label": "Website",
+        "url": "https://pointw.github.io/equi_q_page"
+      }
+    ]
+  },
+  {
+    "id": "haojie_gascn",
+    "title": "GASCN: Graph Attention Shape Completion Network",
+    "authors": [
+      "Haojie Huang",
+      "Ziyi Yang",
+      "Robert Platt"
+    ],
+    "year": "2021",
+    "date": "2021-10-15T00:00:00Z",
+    "venue": "3DV 2021",
+    "venue_full": "In 2021 International Conference on 3D Vision",
+    "kind": "conference",
+    "abstract": "Shape completion, the problem of inferring the complete geometry of an object given a partial point cloud, is an important problem in robotics and computer vision. This paper proposes the Graph Attention Shape Completion Network (GASCN), a novel neural network model that solves this problem. This model combines a graph-based model for encoding local point cloud information with an MLP-based architecture for encoding global information. For each completed point, our model infers the normal and extent of the local surface patch which is used to produce dense yet precise shape completions. We report experiments that demonstrate that GASCN outperforms standard shape completion methods on a standard benchmark drawn from the Shapenet dataset.",
+    "thumb": "img/pubs/haojie_gascn.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2201.07937"
+      }
+    ]
+  },
+  {
+    "id": "sasha_design",
+    "title": "Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems",
+    "authors": [
+      "Alexander Wilkinson",
+      "Michael Gonzales",
+      "Patrick Hoey",
+      "David Kontak",
+      "Dian Wang",
+      "Noah Torname",
+      "Amelia Sinclaire",
+      "Zhao Han",
+      "Jordan Allspaw",
+      "Robert Platt",
+      "Holly Yanco"
+    ],
+    "year": "2021",
+    "date": "2021-09-06T00:00:00Z",
+    "venue": "Paladyn",
+    "venue_full": "In Paladyn, Journal of Behavioral Robotics",
+    "kind": "journal",
+    "abstract": "The design of user interfaces (UIs) for assistive robot systems can be improved through the use of a set of design guidelines presented in this article. As an example, the article presents two different UI designs for an assistive manipulation robot system. We explore the design considerations from these two contrasting UIs. The first is referred to as the graphical user interface (GUI), which the user operates entirely through a touchscreen as a representation of the state of the art. The second is a type of novel UI referred to as the tangible user interface (TUI). The TUI makes use of devices in the real world, such as laser pointers and a projector–camera system that enables augmented reality. Each of these interfaces is designed to allow the system to be operated by an untrained user in an open environment such as a grocery store. Our goal is for these guidelines to aid researchers in the design of human–robot interaction for assistive robot systems, particularly when designing multiple interaction methods for direct comparison.",
+    "thumb": "img/pubs/sasha_design.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html"
+      }
+    ]
+  },
+  {
+    "id": "kevin_DTQN",
+    "title": "Deep Transformer Q-Networks for Partially Observable Reinforcement Learning",
+    "authors": [
+      "Kevin Esslinger",
+      "Robert Platt",
+      "Christopher Amato"
+    ],
+    "year": "2021",
+    "date": "2021-05-19T00:00:00Z",
+    "venue": "Preprint",
+    "venue_full": "In Preprint",
+    "kind": "preprint",
+    "abstract": "Real-world reinforcement learning tasks often involve some form of partial observability where the observations only give a partial or noisy view of the true state of the world. Such tasks typically require some form of memory, where the agent has access to multiple past observations, in order to perform well. One popular way to incorporate memory is by using a recurrent neural network to access the agent's history. However, recurrent neural networks in reinforcement learning are often fragile and difficult to train, susceptible to catastrophic forgetting and sometimes fail completely as a result. In this work, we propose Deep Transformer Q-Networks (DTQN), a novel architecture utilizing transformers and self-attention to encode an agent's history. DTQN is designed modularly, and we compare results against several modifications to our base model. Our experiments demonstrate the transformer can solve partially observable tasks faster and more stably than previous recurrent approaches.",
+    "thumb": "img/pubs/kevin_DTQN.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2206.01078"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/kevslinger/DTQN"
+      }
+    ]
+  },
+  {
+    "id": "Marcus_shape_completion",
+    "title": "Robotic Pick-and-Place With Uncertain Object Instance Segmentation and Shape Completion",
+    "authors": [
+      "Marcus Gualtieri",
+      "Robert Platt"
+    ],
+    "year": "2021",
+    "date": "2021-05-02T00:00:00Z",
+    "venue": "RA-L",
+    "venue_full": "In IEEE Robotics and Automation Letters",
+    "kind": "journal",
+    "abstract": "We consider robotic pick-and-place of partially visible, novel objects, where goal placements are non-trivial, e.g., tightly packed into a bin. One approach is (a) use object instance segmentation and shape completion to model the objects and (b) use a regrasp planner to decide grasps and places displacing the models to their goals. However, it is critical for the planner to account for uncertainty in the perceived models, as object geometries in unobserved areas are just guesses. We account for perceptual uncertainty by incorporating it into the regrasp planner’s cost function. We compare seven different costs. One of these, which uses neural networks to estimate probability of grasp and place stability, consistently outperforms uncertaintyunaware costs and evaluates faster than Monte Carlo sampling. On a real robot, the proposed cost results in successfully packing objects tightly into a bin 7.8% more often versus the commonly used minimum-number-of-grasps cost.",
+    "thumb": "img/pubs/Marcus_shape_completion.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.ccs.neu.edu/home/mgualti/2021-Gualtieri-RoboticPickAndPlaceWithUncertainObjectInstanceSegmentationAndShapeCompletion.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/mgualti/GeomPickPlace"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/OBGf7L3iKsM"
+      },
+      {
+        "label": "Supplementary Results",
+        "url": "https://www.ccs.neu.edu/home/mgualti/2021-Gualtieri-SupplementaryResultsForRoboticPickAndPlaceWithUncertainObjectInstanceSegmentationAndShapeCompletion.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_ap",
+    "title": "Action Priors for Large Action Spaces in Robotics",
+    "authors": [
+      "Ondrej Biza",
+      "Dian Wang",
+      "Robert Platt",
+      "Jan-Willem van de Meent",
+      "Lawson L. S. Wong"
+    ],
+    "year": "2021",
+    "date": "2021-05-01T00:00:00Z",
+    "venue": "AAMAS 2021",
+    "venue_full": "In Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems",
+    "kind": "conference",
+    "abstract": "In robotics, it is often not possible to learn useful policies using pure model-free reinforcement learning without significant reward shaping or curriculum learning. As a consequence, many researchers rely on expert demonstrations to guide learning. However, acquiring expert demonstrations can be expensive. This paper proposes an alternative approach where the solutions of previously solved tasks are used to produce an action prior that can facilitate exploration in future tasks. The action prior is a probability distribution over actions that summarizes the set of policies found solving previous tasks. Our results indicate that this approach can be used to solve robotic manipulation problems that would otherwise be infeasible without expert demonstrations.",
+    "thumb": "img/pubs/ondrej_ap.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_ap/biza21ap.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ondrejba/action_priors"
+      }
+    ]
+  },
+  {
+    "id": "Andreas_SE3",
+    "title": "Efficient and Accurate Candidate Generation for Grasp Pose Detection in SE(3)",
+    "authors": [
+      "Andreas ten Pas",
+      "Colin Keil",
+      "Robert Platt"
+    ],
+    "year": "2021",
+    "date": "2021-03-15T00:00:00Z",
+    "venue": "IROS 2021",
+    "venue_full": "In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "kind": "conference",
+    "abstract": "Recently, a number of grasp detection methods have been proposed that can be used to localize robotic grasp configurations directly from sensor data without estimating object pose. The underlying idea is to treat grasp perception analogously to object detection in computer vision. These methods take as input a noisy and partially occluded RGBD image or point cloud and produce as output pose estimates of viable grasps, without assuming a known CAD model of the object. Although these methods generalize grasp knowledge to new objects well, they have not yet been demonstrated to be reliable enough for wide use. Many grasp detection methods achieve grasp success rates (grasp successes as a fraction of the total number of grasp attempts) between 75% and 95% for novel objects presented in isolation or in light clutter. Not only are these success rates too low for practical grasping applications, but the light clutter scenarios that are evaluated often do not reflect the realities of real world grasping. This paper proposes a number of innovations that together result in a significant improvement in grasp detection performance. The specific improvement in performance due to each of our contributions is quantitatively measured either in simulation or on robotic hardware. Ultimately, we report a series of robotic experiments that average a 93% end-to-end grasp success rate for novel objects presented in dense clutter.",
+    "thumb": "img/pubs/Andreas_SE3.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9636215"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_bisim",
+    "title": "Learning Discrete State Abstractions With Deep Variational Inference",
+    "authors": [
+      "Ondrej Biza",
+      "Robert Platt",
+      "Jan-Willem van de Meent",
+      "Lawson L. S. Wong"
+    ],
+    "year": "2021",
+    "date": "2021-02-01T00:00:00Z",
+    "venue": "AABI 2021",
+    "venue_full": "In 3rd Symposium on Advances in Approximate Bayesian Inference",
+    "kind": "conference",
+    "abstract": "Abstraction is crucial for effective sequential decision making in domains with large state spaces. In this work, we propose an information bottleneck method for learning approximate bisimulations, a type of state abstraction. We use a deep neural encoder to map states onto continuous embeddings. We map these embeddings onto a discrete representation using an action-conditioned hidden Markov model, which is trained end-to-end with the neural network. Our method is suited for environments with high-dimensional states and learns from a stream of experience collected by an agent acting in a Markov decision process. Through this learned discrete abstract model, we can efficiently plan for unseen goals in a multi-goal Reinforcement Learning setting. We test our method in simplified robotic manipulation domains with image states. We also compare it against previous model-based approaches to finding bisimulations in discrete grid-world-like environments.",
+    "thumb": "img/pubs/ondrej_bisim.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_bisim/biza21bisim.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ondrejba/discrete_abstractions"
+      }
+    ]
+  },
+  {
+    "id": "tarik_bayes",
+    "title": "Learning bayes filter models for tactile localization",
+    "authors": [
+      "Tarik Kelestemur",
+      "Colin Keil",
+      "John P Whitney",
+      "Robert Platt",
+      "Taskin Padir"
+    ],
+    "year": "2020",
+    "date": "2020-12-16T00:00:00Z",
+    "venue": "IROS 2020",
+    "venue_full": "In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "kind": "conference",
+    "abstract": "Localizing and tracking the pose of robotic grippers are necessary skills for manipulation tasks. However, the manipulators with imprecise kinematic models (e.g. low-cost arms) or manipulators with unknown world coordinates (e.g. poor camera-arm calibration) cannot locate the gripper with respect to the world. In these circumstances, we can leverage tactile feedback between the gripper and the environment. In this paper, we present learnable Bayes filter models that can localize robotic grippers using tactile feedback. We propose a novel observation model that conditions the tactile feedback on visual maps of the environment along with a motion model to recursively estimate the gripper's location. Our models are trained in simulation with self-supervision and transferred to the real world. Our method is evaluated on a tabletop localization task in which the gripper interacts with objects. We report results in simulation and on a real robot, generalizing over different sizes, shapes, and configurations of the objects.",
+    "thumb": "img/pubs/tarik_bayes.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9341420"
+      }
+    ]
+  },
+  {
+    "id": "dian_asr",
+    "title": "Policy learning in SE(3) action spaces",
+    "authors": [
+      "Dian Wang",
+      "Colin Kohler",
+      "Robert Platt"
+    ],
+    "year": "2020",
+    "date": "2020-11-16T00:00:00Z",
+    "venue": "CoRL 2020",
+    "venue_full": "In 4th Annual Conference on Robot Learning",
+    "kind": "conference",
+    "abstract": "In the spatial action representation, the action space spans the space of target poses for robot motion commands, i.e. SE(2) or SE(3). This approach has been used to solve challenging robotic manipulation problems and shows promise. However, the method is often limited to a three dimensional action space and short horizon tasks. This paper proposes ASRSE3, a new method for handling higher dimensional spatial action spaces that transforms an original MDP with high dimensional action space into a new MDP with reduced action space and augmented state space. We also propose SDQfD, a variation of DQfD designed for large action spaces. ASRSE3 and SDQfD are evaluated in the context of a set of challenging block construction tasks. We show that both methods outperform standard baselines and can be used in practice on real robotics systems.",
+    "thumb": "img/pubs/dian_asr.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2010.02798"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/pointW/asrse3_corl20"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=FiHoIF1oLZs"
+      },
+      {
+        "label": "Website",
+        "url": "https://pointw.github.io/asrse3-page"
+      },
+      {
+        "label": "Talk",
+        "url": "https://www.youtube.com/watch?v=W0UQMntqaog"
+      }
+    ]
+  },
+  {
+    "id": "hai_bgn",
+    "title": "Belief-Grounded Networks for Accelerated Robot Learning under Partial Observability",
+    "authors": [
+      "Hai Nguyen",
+      "Brett Daley",
+      "Xinchao Song",
+      "Christopher Amato",
+      "Robert Platt"
+    ],
+    "year": "2020",
+    "date": "2020-11-16T00:00:00Z",
+    "venue": "CoRL 2020",
+    "venue_full": "In 4th Annual Conference on Robot Learning",
+    "kind": "conference",
+    "abstract": "Many important robotics problems are partially observable where a single visual or force-feedback measurement is insufficient to reconstruct the state. Standard approaches involve learning a policy over beliefs or observation-action histories.    However, both of these have drawbacks; it is expensive to track the belief online, and it is hard to learn policies directly over histories. We propose a method for policy learning under partial observability called the Belief-Grounded Network (BGN) in which an auxiliary belief-reconstruction loss incentivizes a neural network to concisely summarize its input history. Since the resulting policy is a function of the history rather than the belief, it can be executed easily at runtime. We compare BGN against several baselines on classic benchmark tasks as well as three novel robotic force-feedback tasks. BGN outperforms all other tested methods and its learned policies work well when transferred onto a physical robot.",
+    "thumb": "img/pubs/hai_bgn.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2010.09170"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/hai-h-nguyen/belief-grounded-network"
+      },
+      {
+        "label": "Website",
+        "url": "https://sites.google.com/view/bgn-pomdp"
+      }
+    ]
+  },
+  {
+    "id": "Marcus_hierarchical_spatial",
+    "title": "Learning Manipulation Skills Via Hierarchical Spatial Attention",
+    "authors": [
+      "Marcus Gualtieri",
+      "Robert Platt"
+    ],
+    "year": "2020",
+    "date": "2020-10-02T00:00:00Z",
+    "venue": "T-RO",
+    "venue_full": "In IEEE Transactions on Robotics",
+    "kind": "conference",
+    "abstract": "Learning generalizable skills in robotic manipulation has long been challenging due to realworld sized observation and action spaces. One method for addressing this problem is attention focus – the robot learns where to attend its sensors and irrelevant details are ignored. However, these methods have largely not caught on due to the difficulty of learning a good attention policy and the added partial observability induced by a narrowed window of focus. This article addresses the first issue by constraining gazes to a spatial hierarchy. For the second issue, we identify a case where the partial observability induced by attention does not prevent Q-learning from finding an optimal policy. We conclude with real-robot experiments on challenging pick-place tasks demonstrating the applicability of the approach.",
+    "thumb": "img/pubs/Marcus_hierarchical_spatial.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.ccs.neu.edu/home/mgualti/2020-Gualtieri-LearningManipulationSkillsViaHierarchicalSpatialAttention.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/mgualti/Seq6DofManip"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/4dZ6WiDX3-s"
+      }
+    ]
+  },
+  {
+    "id": "dian_scooter",
+    "title": "Towards Assistive Robotic Pick and Place in Open World Environments",
+    "authors": [
+      "Dian Wang",
+      "Colin Kohler",
+      "Andreas ten Pas",
+      "Maozhi Liu",
+      "Holly Yanco",
+      "Alexander Wilkinson",
+      "Robert Platt"
+    ],
+    "year": "2019",
+    "date": "2019-10-06T00:00:00Z",
+    "venue": "ISRR 2019",
+    "venue_full": "In The International Symposium on Robotics Research",
+    "kind": "conference",
+    "abstract": "Assistive robot manipulators must be able to autonomously pick and place a wide range of novel objects to be truly useful. However, current assistive robots lack this capability. Additionally, assistive systems need to have an interface that is easy to learn, to use, and to understand. This paper takes a step forward in this direction. We present a robot system comprised of a robotic arm and a mobility scooter that provides both pick-and-drop and pick-and-place functionality for open world environments without modeling the objects or environment. The system uses a laser pointer to directly select an object in the world, with feedback to the user via projecting an interface into the world. Our evaluation over several experimental scenarios shows a significant improvement in both runtime and grasp success rate relative to a baseline from the literature, and furthermore demonstrates accurate pick and place capabilities for tabletop scenarios.",
+    "thumb": "img/pubs/dian_scooter.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/1809.09541.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=ZimZlsJTaTU"
+      },
+      {
+        "label": "Website",
+        "url": "https://pointw.github.io/scooter-page/"
+      }
+    ]
+  },
+  {
+    "id": "Rob_Deictic_Image_Mapping",
+    "title": "Learning 6-DoF Grasping and Pick-Place Using Attention Focus",
+    "authors": [
+      "Robert Platt",
+      "Colin Kohler",
+      "Marcus Gualtieri"
+    ],
+    "year": "2019",
+    "date": "2019-10-02T00:00:00Z",
+    "venue": "AAAI 2019",
+    "venue_full": "In AAAI Conf. on Artificial Intelligence",
+    "kind": "conference",
+    "abstract": "In applications of deep reinforcement learning to robotics, it is often the case that we want to learn pose invariant policies: policies that are invariant to changes in the position and orientation of objects in the world. For example, consider a pegin-hole insertion task. If the agent learns to insert a peg into one hole, we would like that policy to generalize to holes presented in different poses. Unfortunately, this is a challenge using conventional methods. This paper proposes a novel state and action abstraction that is invariant to pose shifts called deictic image maps that can be used with deep reinforcement learning. We provide broad conditions under which optimal abstract policies are optimal for the underlying system. Finally, we show that the method can help solve challenging robotic manipulation problems.",
+    "thumb": "img/pubs/Rob_Deictic_Image_Mapping.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.ccs.neu.edu/home/mgualti/2019-Platt-DeicticImageMappingAnAbstractionForLearningPoseInvariantManipulationPolicies.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/ueifY03ivaE"
+      }
+    ]
+  },
+  {
+    "id": "ondrej_homo",
+    "title": "Online Abstraction with MDP Homomorphisms for Deep Learning",
+    "authors": [
+      "Ondrej Biza",
+      "Robert Platt"
+    ],
+    "year": "2019",
+    "date": "2019-05-01T00:00:00Z",
+    "venue": "AAMAS 2019",
+    "venue_full": "In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems",
+    "kind": "conference",
+    "abstract": "Abstraction of Markov Decision Processes is a useful tool for solving complex problems, as it can ignore unimportant aspects of an environment, simplifying the process of learning an optimal policy. In this paper, we propose a new algorithm for finding abstract MDPs in environments with continuous state spaces. It is based on MDP homomorphisms, a structure-preserving mapping between MDPs. We demonstrate our algorithm's ability to learn abstractions from collected experience and show how to reuse the abstractions to guide exploration in new tasks the agent encounters. Our novel task transfer method outperforms baselines based on a deep Q-network in the majority of our experiments.",
+    "thumb": "img/pubs/ondrej_homo.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "publication/ondrej_homo/biza19homo.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/ondrejba/aamas_19"
+      }
+    ]
+  },
+  {
+    "id": "Marcus_6dof_attention",
+    "title": "Learning 6-DoF Grasping and Pick-Place Using Attention Focus",
+    "authors": [
+      "Marcus Gualtieri",
+      "Robert Platt"
+    ],
+    "year": "2018",
+    "date": "2018-10-02T00:00:00Z",
+    "venue": "CoRL 2018",
+    "venue_full": "In Conf. on Robot Learning",
+    "kind": "conference",
+    "abstract": "We address a class of manipulation problems where the robot perceives the scene with a depth sensor and can move its end effector in a space with six degrees of freedom – 3D position and orientation. Our approach is to formulate the problem as a Markov decision process (MDP) with abstract yet generally applicable state and action representations. Finding a good solution to the MDP requires adding constraints on the allowed actions. We develop a specific set of constraints called hierarchical SE(3) sampling (HSE3S) which causes the robot to learn a sequence of gazes to focus attention on the task-relevant parts of the scene. We demonstrate the effectiveness of our approach on three challenging pick-place tasks (with novel objects in clutter and nontrivial places) both in simulation and on a real robot, even though all training is done in simulation.",
+    "thumb": "img/pubs/Marcus_6dof_attention.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.ccs.neu.edu/home/mgualti/2018-Gualtieri-Learning6DofGraspingAndPickPlaceUsingAttentionFocus.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/mgualti/DeepRLManip"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/syS5gYXONPY"
+      },
+      {
+        "label": "Slides",
+        "url": "https://www.ccs.neu.edu/home/mgualti/2018-Gualtieri-Learning6DofGraspingAndPickPlaceUsingAttentionFocus.odp"
+      }
+    ]
+  },
+  {
+    "id": "Marcus_Without_Geometric",
+    "title": "Pick and Place Without Geometric Object Models",
+    "authors": [
+      "Marcus Gualtieri",
+      "Andreas ten Pas",
+      "Robert Platt"
+    ],
+    "year": "2018",
+    "date": "2018-05-02T00:00:00Z",
+    "venue": "ICRA 2018",
+    "venue_full": "In IEEE International Conference on Robotics and Automation",
+    "kind": "conference",
+    "abstract": "We propose a novel formulation of robotic pick and place as a deep reinforcement learning (RL) problem. Whereas most deep RL approaches to robotic manipulation frame the problem in terms of low level states and actions, we propose a more abstract formulation. In this formulation, actions are target reach poses for the hand and states are a history of such reaches. We show this approach can solve a challenging class of pick-place and regrasping problems where the exact geometry of the objects to be handled is unknown. The only information our method requires is: 1) the sensor perception available to the robot at test time; 2) prior knowledge of the general class of objects for which the system was trained. We evaluate our method using objects belonging to two different categories, mugs and bottles, both in simulation and on real hardware. Results show a major improvement relative to a shape primitives baseline.",
+    "thumb": "img/pubs/Marcus_Without_Geometric.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/1707.05615"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/-dDv7CgpBo0"
+      }
+    ]
+  },
+  {
+    "id": "Ulrich_Learning_a_visuomotor_controller",
+    "title": "Learning a visuomotor controller for real world robotic grasping using simulated depth images",
+    "authors": [
+      "Ulrich Viereck",
+      "Andreas ten Pas",
+      "Kate Saenko",
+      "Robert Platt"
+    ],
+    "year": "2017",
+    "date": "2017-11-02T00:00:00Z",
+    "venue": "CoRL 2017",
+    "venue_full": "In Conference on Robot Learning",
+    "kind": "conference",
+    "abstract": "We want to build robots that are useful in unstructured real world applications, such as doing work in the household. Grasping in particular is an important skill in this domain, yet it remains a challenge. One of the key hurdles is handling unexpected changes or motion in the objects being grasped and kinematic noise or other errors in the robot. This paper proposes an approach to learning a closed-loop controller for robotic grasping that dynamically guides the gripper to the object. We use a wrist-mounted sensor to acquire depth images in front of the gripper and train a convolutional neural network to learn a distance function to true grasps for grasp configurations over an image. The training sensor data is generated in simulation, a major advantage over previous work that uses real robot experience, which is costly to obtain. Despite being trained in simulation, our approach works well on real noisy sensor images. We compare our controller in simulated and real robot experiments to a strong baseline for grasp pose detection, and find that our approach significantly outperforms the baseline in the presence of kinematic noise, perceptual errors and disturbances of the object during grasping.",
+    "thumb": "img/pubs/Ulrich_Learning_a_visuomotor_controller.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/1706.04652.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=WkVM3dRWWN8"
+      }
+    ]
+  },
+  {
+    "id": "Andreas_GPD",
+    "title": "Grasp Pose Detection in Point Clouds",
+    "authors": [
+      "Andreas ten Pas",
+      "Marcus Gualtieri",
+      "Kate Saenko",
+      "Robert Platt"
+    ],
+    "year": "2017",
+    "date": "2017-10-02T00:00:00Z",
+    "venue": "IJRR",
+    "venue_full": "In The International Journal of Robotics Research",
+    "kind": "journal",
+    "abstract": "Recently, a number of grasp detection methods have been proposed that can be used to localize robotic grasp configurations directly from sensor data without estimating object pose. The underlying idea is to treat grasp perception analogously to object detection in computer vision. These methods take as input a noisy and partially occluded RGBD image or point cloud and produce as output pose estimates of viable grasps, without assuming a known CAD model of the object. Although these methods generalize grasp knowledge to new objects well, they have not yet been demonstrated to be reliable enough for wide use. Many grasp detection methods achieve grasp success rates (grasp successes as a fraction of the total number of grasp attempts) between 75% and 95% for novel objects presented in isolation or in light clutter. Not only are these success rates too low for practical grasping applications, but the light clutter scenarios that are evaluated often do not reflect the realities of real world grasping. This paper proposes a number of innovations that together result in a significant improvement in grasp detection performance. The specific improvement in performance due to each of our contributions is quantitatively measured either in simulation or on robotic hardware. Ultimately, we report a series of robotic experiments that average a 93% end-to-end grasp success rate for novel objects presented in dense clutter.",
+    "thumb": "img/pubs/Andreas_GPD.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/1706.09911"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/atenpas/gpd"
+      },
+      {
+        "label": "UR5 Video",
+        "url": "https://youtu.be/kfe5bNt35ZI"
+      },
+      {
+        "label": "Baxter Video",
+        "url": "https://www.youtube.com/watch?v=p4JXpZVxr48"
+      }
+    ]
+  },
+  {
+    "id": "Marcus_Laser_Selection",
+    "title": "Open World Assistive Grasping Using Laser Selection",
+    "authors": [
+      "Marcus Gualtieri",
+      "James Kuczynski",
+      "Abraham M. Shultz",
+      "Andreas ten Pas",
+      "Robert Platt"
+    ],
+    "year": "2017",
+    "date": "2017-06-02T00:00:00Z",
+    "venue": "ICRA 2017",
+    "venue_full": "In IEEE International Conference on Robotics and Automation",
+    "kind": "conference",
+    "abstract": "Many people with motor disabilities are unable to complete activities of daily living (ADLs) without assistance. This paper describes a complete robotic system developed to provide mobile grasping assistance for ADLs. The system is comprised of a robot arm from a Rethink Robotics Baxter robot mounted to an assistive mobility device, a control system for that arm, and a user interface with a variety of access methods for selecting desired objects. The system uses grasp detection to allow previously unseen objects to be picked up by the system. The grasp detection algorithms also allow for objects to be grasped in cluttered environments. We evaluate our system in a number of experiments on a large variety of objects. Overall, we achieve an object selection success rate of 88% and a grasp detection success rate of 90% in a nonmobile scenario, and success rates of 89% and 72% in a mobile scenario.",
+    "thumb": "img/pubs/Marcus_Laser_Selection.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://www.ccs.neu.edu/home/mgualti/2017-Gualtieri-OpenWorldAssistiveGraspingUsingLaserSelection.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=7Krn8ojdeH0"
+      }
+    ]
+  },
+  {
+    "id": "Marcus_viewpoint",
+    "title": "Viewpoint Selection for Grasp Detection",
+    "authors": [
+      "Marcus Gualtieri",
+      "Robert Platt"
+    ],
+    "year": "2017",
+    "date": "2017-05-02T00:00:00Z",
+    "venue": "IROS 2017",
+    "venue_full": "In IEEE/RSJ Int'l Conf. on Intelligent Robots and Systems",
+    "kind": "conference",
+    "abstract": "In grasp detection, the robot estimates the position and orientation of potential grasp configurations directly from sensor data. This paper explores the relationship between viewpoint and grasp detection performance. Specifically, we consider the scenario where the approximate position and orientation of a desired grasp is known in advance and we want to select a viewpoint that will enable a grasp detection algorithm to localize it more precisely and with higher confidence. Our main findings are that the right viewpoint can dramatically increase the number of detected grasps and the classification accuracy of the top-n detections. We use this insight to create a viewpoint selection algorithm and compare it against a random viewpoint selection strategy and a strategy that views the desired grasp head-on. We find that the head-on strategy and our proposed viewpoint selection strategy can improve grasp success rates on a real robot by 8% and 4%, respectively. Moreover, we find that the combination of the two methods can improve grasp success rates by as much as 12%.",
+    "thumb": "img/pubs/Marcus_viewpoint.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://www.ccs.neu.edu/home/mgualti/2017-Gualtieri-ViewpointSelectionForGraspDetection.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://youtu.be/iGRbqFsNgzo"
+      }
+    ]
+  },
+  {
+    "id": "Marcus_high_precision",
+    "title": "High precision grasp pose detection in dense clutter",
+    "authors": [
+      "Marcus Gualtieri",
+      "Andreas ten Pas",
+      "Kate Saenko",
+      "Robert Platt"
+    ],
+    "year": "2016",
+    "date": "2016-10-02T00:00:00Z",
+    "venue": "IROS 2016",
+    "venue_full": "In IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "kind": "conference",
+    "abstract": "This paper considers the problem of grasp pose detection in point clouds. We follow a general algorithmic structure that first generates a large set of 6-DOF grasp candidates and then classifies each of them as a good or a bad grasp. Our focus in this paper is on improving the second step by using depth sensor scans from large online datasets to train a convolutional neural network. We propose two new representations of grasp candidates, and we quantify the effect of using prior knowledge of two forms: instance or category knowledge of the object to be grasped, and pretraining the network on simulated depth data obtained from idealized CAD models. Our analysis shows that a more informative grasp candidate representation as well as pretraining and prior knowledge significantly improve grasp detection. We evaluate our approach on a Baxter Research Robot and demonstrate an average grasp success rate of 93% in dense clutter. This is a 20% improvement compared to our prior work.",
+    "thumb": "img/pubs/Marcus_high_precision.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://www.ccs.neu.edu/home/atp/publications/grasps_cnn_iros2016.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/atenpas/gpd"
+      },
+      {
+        "label": "UR5 Video",
+        "url": "https://youtu.be/kfe5bNt35ZI"
+      },
+      {
+        "label": "Baxter Video",
+        "url": "https://www.youtube.com/watch?v=p4JXpZVxr48"
+      }
+    ]
+  },
+  {
+    "id": "Andreas_Using_Geometry",
+    "title": "Using Geometry to Detect Grasp Poses in 3D Point Clouds.",
+    "authors": [
+      "Andreas ten Pas",
+      "Robert Platt"
+    ],
+    "year": "2015",
+    "date": "2015-09-02T00:00:00Z",
+    "venue": "ISRR 2015",
+    "venue_full": "In International Symposium on Robotics Research",
+    "kind": "conference",
+    "abstract": "This paper proposes a new approach to using machine learning to detect grasp poses on novel objects presented in clutter. The input to our algorithm is a point cloud and the geometric parameters of the robot hand. The output is a set of hand poses that are expected to be good grasps. There are two main contributions. First, we identify a set of necessary conditions on the geometry of a grasp that can be used to generate a set of grasp hypotheses. This helps focus grasp detection away from regions where no grasp can exist. Second, we show how geometric grasp conditions can be used to generate labeled datasets for the purpose of training the machine learning algorithm. This enables us to generate large amounts of training data and it grounds our training labels in grasp mechanics. Overall, our method achieves an average grasp success rate of 88% when grasping novels objects presented in isolation and an average success rate of 73% when grasping novel objects presented in dense clutter. This system is available as a ROS package at http://wiki.ros.org/agile_grasp.",
+    "thumb": "img/pubs/Andreas_Using_Geometry.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://www.ccs.neu.edu/home/atp/publications/grasp_poses_isrr2015.pdf"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=Dm64UC3uGVY"
+      },
+      {
+        "label": "ROS",
+        "url": "http://wiki.ros.org/agile_grasp"
+      }
+    ]
+  },
+  {
+    "id": "Andreas_Localizing_Handle_Like",
+    "title": "Localizing Handle-Like Grasp Affordances in 3D Point Clouds",
+    "authors": [
+      "Andreas ten Pas",
+      "Robert Platt"
+    ],
+    "year": "2014",
+    "date": "2014-06-02T00:00:00Z",
+    "venue": "ISER 2014",
+    "venue_full": "In International Symposium on Experimental Robotics",
+    "kind": "conference",
+    "abstract": "We propose a new approach to localizing handle-like grasp affordances in 3-D point clouds. The main idea is to identify a set of sufficient geometric conditions for the existence of a grasp affordance and to search the point cloud for neighborhoods that satisfy these conditions. Our goal is not to find all possible grasp affordances, but instead to develop a method of localizing important types of grasp affordances quickly and reliably. The strength of this method relative to other current approaches is that it is very practical: it can have good precision/recall for the types of affordances under consideration, it runs in real-time, and it is easy to adapt to different robots and operating scenarios. We validate with a set of experiments where the approach is used to enable the Rethink Baxter robot to localize and grasp unmodelled objects.",
+    "thumb": "img/pubs/Andreas_Localizing_Handle_Like.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://www.ccs.neu.edu/home/atp/publications/affordances_iser2014_final.pdf"
+      },
+      {
+        "label": "ROS",
+        "url": "http://wiki.ros.org/handle_detector"
+      },
+      {
+        "label": "Baxter Video",
+        "url": "http://www.youtube.com/watch?v=qjE5X7pTjKE"
+      },
+      {
+        "label": "Robonaut Video",
+        "url": "https://www.youtube.com/watch?v=cqxjxVwqhOY"
+      }
+    ]
+  }
+]

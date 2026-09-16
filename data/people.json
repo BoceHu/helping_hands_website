@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Robert Platt",
+    "slug": "robert-platt",
+    "section": "faculty",
+    "role": "Lab Director",
+    "site": "https://www.khoury.northeastern.edu/people/robert-platt/",
+    "photo": "img/people/robert-platt.jpg",
+    "social": {
+      "envelope": "mailto:rplatt@ccs.neu.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=Z4Y5S2oAAAAJ&hl=en&oi=ao"
+    }
+  },
+  {
+    "name": "Zhefei Gong",
+    "slug": "zhefei-gong",
+    "section": "phd",
+    "start": "2026-09",
+    "role": "PhD student, CS",
+    "site": "https://zhefeigong.github.io",
+    "photo": "img/people/zhefei-gong.jpg",
+    "social": {
+      "envelope": "mailto:gong.zhef@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=PpJTGIYAAAAJ&hl=en&oi=ao"
+    },
+    "bio": "My research interests include robot learning, generative models, and reinforcement learning for robotic manipulation in unstructured environments."
+  },
+  {
+    "name": "Ahmed Agha",
+    "slug": "ahmed-agha",
+    "section": "phd",
+    "start": "2025-01",
+    "role": "PhD student, CS",
+    "site": "https://aagha6.github.io/",
+    "photo": "img/people/ahmed-agha.jpg",
+    "social": {
+      "envelope": "mailto:agha.ah@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=It8RcRIAAAAJ&hl=en"
+    },
+    "bio": "My research interests include Reinforcement Learning for Robotics, Model-based Reinforcement Learning and World Models."
+  },
+  {
+    "name": "Misha Lvovsky",
+    "slug": "misha-lvovsky",
+    "section": "phd",
+    "start": "2024-09",
+    "role": "PhD student, CS",
+    "site": "https://www.ccs.neu.edu/home/mishmish/",
+    "photo": "img/people/misha-lvovsky.jpg",
+    "social": {
+      "google-scholar": "https://scholar.google.com/citations?hl=en&user=0yQFixIAAAAJ",
+      "github": "https://github.com/mishmish66"
+    },
+    "bio": "I am working on teaching robots to quickly and robustly learn new skills and adapt to their environment."
+  },
+  {
+    "name": "Nichols Crawford Taylor",
+    "slug": "nichols-crawford-taylor",
+    "section": "phd",
+    "start": "2024-09",
+    "role": "PhD student, CS",
+    "site": "https://nicholscrawford.github.io/",
+    "photo": "img/people/nichols-crawford-taylor.jpg",
+    "social": {
+      "google-scholar": "https://scholar.google.com/citations?user=Igre_ZoAAAAJ&hl=en",
+      "github": "https://github.com/nicholscrawford"
+    },
+    "bio": "My research interests include reinforcment learning, planning, and other techniques for manipulation."
+  },
+  {
+    "name": "Boce Hu",
+    "slug": "boce-hu",
+    "section": "phd",
+    "start": "2023-09",
+    "role": "PhD student, CS",
+    "site": "https://bocehu.github.io",
+    "photo": "img/people/boce-hu.jpg",
+    "social": {
+      "envelope": "mailto:boce.hu@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=wb5bm84AAAAJ&hl=en&oi=ao"
+    },
+    "bio": "My research interests include developing perception, planning, and control algorithms for robotic manipulation in unstructured environments."
+  },
+  {
+    "name": "Haojie Huang",
+    "slug": "haojie-huang",
+    "section": "phd",
+    "start": "2021-09",
+    "role": "PhD student, CS",
+    "site": "https://haojhuang.github.io",
+    "photo": "img/people/haojie-huang.jpg",
+    "social": {
+      "envelope": "mailto:huang.haoj@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=H78BJecAAAAJ&hl=en&oi=ao"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Zhang Ye",
+    "slug": "zhang-ye",
+    "section": "ms",
+    "start": "2025-11",
+    "role": "M.S. student, Robotics (ECE)",
+    "site": "https://evenjohnyz.github.io/",
+    "photo": "img/people/zhang-ye.jpeg",
+    "social": {
+      "envelope": "mailto:ye.zhang1@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=wd4Rc8YAAAAJ&hl"
+    },
+    "bio": "My research interests include developing perception, planning, and control algorithms for robotic manipulation in unstructured environments."
+  },
+  {
+    "name": "Andrew Cole",
+    "slug": "andrew-cole",
+    "section": "ms",
+    "start": "2025-10",
+    "role": "M.S. student, Robotics (ME)",
+    "site": "https://andrewcole712.github.io/",
+    "photo": "img/people/andrew-cole.jpg",
+    "social": {
+      "envelope": "mailto:cole.an@northeastern.edu"
+    },
+    "bio": "My research interests include robotic manipulation, robot learning, and dexterous robotic hands."
+  },
+  {
+    "name": "Sakshi Bhatia",
+    "slug": "sakshi-bhatia",
+    "section": "ms",
+    "start": "2025-07",
+    "role": "M.S. student, Robotics (ECE)",
+    "site": "https://sakshi79.github.io/about.html",
+    "photo": "img/people/sakshi-bhatia.jpg",
+    "social": {
+      "envelope": "mailto:bhatia.saks@northeastern.edu"
+    },
+    "bio": "My research interests include perception and action planning for robotic manipulation, given limited demonstration data."
+  },
+  {
+    "name": "Javad Moein",
+    "slug": "javad-moein",
+    "section": "ms",
+    "start": "2024-09",
+    "role": "M.S Student, AI",
+    "site": "https://www.linkedin.com/in/javad-moein-10bbb079",
+    "photo": "img/people/javad-moein.jpg",
+    "social": {
+      "envelope": "mailto:Moeinnajafabadi.j@northeastern.edu",
+      "github": "https://github.com/jaavad"
+    },
+    "bio": "My research interests include Hierarchical Reinforcement Learning and Imitation Learning in combination with LLM-based agents."
+  },
+  {
+    "name": "Haotian Liu",
+    "slug": "haotian-liu",
+    "section": "visiting",
+    "start": "2024-09",
+    "role": "Visiting student",
+    "site": "https://seanliu7081.github.io/",
+    "photo": "img/people/haotian-liu.jpg",
+    "social": {
+      "google-scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=kHsMnEYAAAAJ",
+      "github": "https://github.com/seanliu7081"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Ondrej Biza",
+    "slug": "ondrej-biza",
+    "section": "phd_alumni",
+    "role": "Tesla",
+    "site": "https://ondrejbiza.com",
+    "photo": "img/people/ondrej-biza.jpg",
+    "social": {
+      "envelope": "mailto:biza.o@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=Gi9Xq8YAAAAJ",
+      "github": "https://github.com/ondrejbiza"
+    }
+  },
+  {
+    "name": "Marcus Gualtieri",
+    "slug": "marcus-gualtieri",
+    "section": "phd_alumni",
+    "role": "Bosch",
+    "site": "https://www.ccs.neu.edu/home/mgualti/",
+    "photo": "img/people/marcus-gualtieri.jpg",
+    "social": {
+      "envelope": "mailto:gualtieri.m@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=skSqdYsAAAAJ&hl=en",
+      "github": "https://github.com/mgualti"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Tarik Kelestemur",
+    "slug": "tarik-kelestemur",
+    "section": "phd_alumni",
+    "role": "Eka Robotics",
+    "site": "http://kelestemur.com/",
+    "photo": "img/people/tarik-kelestemur.jpeg",
+    "social": {
+      "envelope": "mailto:kelestemur.t@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=svxVZpoAAAAJ&h",
+      "twitter": "https://twitter.com/tarikkelestemur",
+      "github": "https://github.com/tkelestemur"
+    },
+    "bio": "My research interests lie at the intersection of machine learning and robotic manipulation. Specifically, I am interested in methods combining classical robotic algorithms with data-driven methods with applications to tactile manipulation."
+  },
+  {
+    "name": "David Klee",
+    "slug": "david-klee",
+    "section": "phd_alumni",
+    "role": "Stealth Startup",
+    "site": "https://dmklee.github.io",
+    "photo": "img/people/david-klee.jpg",
+    "social": {
+      "envelope": "mailto:klee.d@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=TJEEkJoAAAAJ&hl=en&oi=ao",
+      "github": "https://github.com/dmklee"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Colin Kohler",
+    "slug": "colin-kohler",
+    "section": "phd_alumni",
+    "role": "Robotics and AI Institute",
+    "site": "https://colinkohler.github.io/webpage/",
+    "photo": "img/people/colin-kohler.png",
+    "social": {
+      "google-scholar": "https://scholar.google.com/citations?user=QuFhQt0AAAAJ&hl=en&oi=ao",
+      "github": "https://github.com/ColinKohler"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Girik Malik",
+    "slug": "girik-malik",
+    "section": "phd_alumni",
+    "role": "Microsoft",
+    "site": "https://www.khoury.northeastern.edu/people/girik-malik/",
+    "photo": "img/people/girik-malik.jpg",
+    "social": {
+      "envelope": "mailto:girikmalik@gmail.com"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Hai Nguyen",
+    "slug": "hai-nguyen",
+    "section": "phd_alumni",
+    "role": "Amazon Robotics",
+    "site": "https://hai-h-nguyen.github.io/",
+    "photo": "img/people/hai-nguyen.jpg",
+    "social": {
+      "envelope": "mailto:nguyen.hai1@northeastern.edu",
+      "twitter": "https://twitter.com/HaiNguy69482974",
+      "google-scholar": "https://scholar.google.com/citations?user=5b9ncWoAAAAJ&hl=en",
+      "github": "https://github.com/hai-h-nguyen"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Andreas ten Pas",
+    "slug": "andreas-ten-pas",
+    "section": "phd_alumni",
+    "role": "Luminous Robotics",
+    "site": "https://www.ccs.neu.edu/home/atp/",
+    "photo": "img/people/andreas-ten-pas.jpg",
+    "social": {
+      "google-scholar": "https://scholar.google.co.uk/citations?hl=en&user=-GnCn1MAAAAJ",
+      "github": "https://github.com/atenpas"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Ulrich Viereck",
+    "slug": "ulrich-viereck",
+    "section": "phd_alumni",
+    "role": "Symbotic",
+    "site": "https://www.khoury.northeastern.edu/people/ulrich-viereck/",
+    "photo": "img/people/ulrich-viereck.jpg",
+    "social": {
+      "envelope": "mailto:uliv@ccs.neu.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=VKbBIIoAAAAJ&hl=en&oi=ao"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Dian Wang",
+    "slug": "dian-wang",
+    "section": "phd_alumni",
+    "role": "University of Macau",
+    "site": "https://pointw.github.io/",
+    "photo": "img/people/dian-wang.jpg",
+    "social": {
+      "google-scholar": "https://scholar.google.com/citations?user=CckjtfQAAAAJ&hl=en&oi=ao",
+      "github": "https://github.com/pointW"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Xupeng Zhu",
+    "slug": "xupeng-zhu",
+    "section": "phd_alumni",
+    "role": "Amazon Robotics",
+    "site": "https://zxp-s-works.github.io",
+    "photo": "img/people/xupeng-zhu.jpg",
+    "social": {
+      "envelope": "mailto:zxpzzz521@gmail.com",
+      "twitter": "https://twitter.com/XupengZ",
+      "google-scholar": "https://www.researchgate.net/profile/Xupeng-Zhu-2",
+      "github": "https://github.com/ZXP-S-works"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Yizhe Zhu",
+    "slug": "yizhe-zhu",
+    "section": "alumni",
+    "role": "M.S. student, Robotic (cs)",
+    "site": "https://yizhezhu0925.github.io/yizhezhu0925/",
+    "photo": "img/people/yizhe-zhu.jpg",
+    "social": {
+      "envelope": "mailto:zhu.yizhe@northeastern.edu",
+      "google-scholar": "https://scholar.google.com/citations?user=MhSyhtwAAAAJ&hl"
+    },
+    "bio": "My research interests include developing perception, planning, and control algorithms for robotic manipulation in unstructured environments.",
+    "degree": "MS (Robotics)",
+    "year": "2026",
+    "now": "a Phd student at University of Macau"
+  },
+  {
+    "name": "Haibo Zhao",
+    "slug": "haibo-zhao",
+    "section": "alumni",
+    "role": "M.S. student, CS",
+    "site": "https://www.linkedin.com/in/haibo-zhao-b68742250/",
+    "photo": "img/people/haibo-zhao.jpg",
+    "social": {
+      "envelope": "mailto:zhao.haib@northeastern.edu"
+    },
+    "bio": "My research interests include developing perception, planning, and control algorithms for robotic manipulation in unstructured environments.",
+    "degree": "MS (Robotics)",
+    "year": "2025",
+    "now": "a Phd student at University of Washington"
+  },
+  {
+    "name": "Heng Tian",
+    "slug": "heng-tian",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (ECE)",
+    "site": "https://heng-t.github.io/hengtian.github.io/",
+    "photo": "img/people/heng-tian.jpg",
+    "social": {
+      "envelope": "mailto:tian.hen@northeastern.edu"
+    },
+    "bio": "My research interests include developing perception, planning, and control algorithms for robotic manipulation in unstructured environments.",
+    "degree": "MS (Robotics)",
+    "year": "2025"
+  },
+  {
+    "name": "Yaoyao(Freax) Qian",
+    "slug": "yaoyaofreax-qian",
+    "section": "alumni",
+    "role": "M.S. student, Information Systems (IS)",
+    "site": "https://h-freax.github.io",
+    "photo": "img/people/yaoyaofreax-qian.jpg",
+    "social": {
+      "envelope": "mailto:qian.ya@northeastern.edu",
+      "github": "https://github.com/H-Freax",
+      "google-scholar": "https://scholar.google.com/citations?user=E0rCXLIAAAAJ&hl=en",
+      "twitter": "https://twitter.com/RubyFreax"
+    },
+    "bio": "My research interests include Large Language Model and Robotics.",
+    "degree": "MS (Information Systems)",
+    "year": "2025"
+  },
+  {
+    "name": "Rachel Lim",
+    "slug": "rachel-lim",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (ECE)",
+    "site": "https://www.linkedin.com/in/rachel-a-lim",
+    "photo": "img/people/rachel-lim.jpg",
+    "social": {
+      "envelope": "mailto:lim.rac@northeastern.edu"
+    },
+    "bio": "Investigating visuo-tactile reinforcement learning for precise manipulation",
+    "degree": "MS (Robotics)",
+    "year": "2025"
+  },
+  {
+    "name": "Arsh Tangri",
+    "slug": "arsh-tangri",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (CS)",
+    "site": "https://www.linkedin.com/in/arsh-tangri-a71194195/",
+    "photo": "img/people/arsh-tangri.jpg",
+    "social": {
+      "envelope": "mailto:tangri.a@northeatsern.edu",
+      "github": "https://github.com/ArshT"
+    },
+    "bio": "My research interests lie at the intersection of Robotics and Artificial Intelligence",
+    "degree": "MS (Robotics)",
+    "year": "2024",
+    "now": "at Path Robotics"
+  },
+  {
+    "name": "Elias Mann",
+    "slug": "elias-mann",
+    "section": "alumni",
+    "role": "M.S. student, AI (CS)",
+    "site": "https://www.linkedin.com/in/elias-mann-11b06a1b5/",
+    "photo": "img/people/elias-mann.jpg",
+    "social": {
+      "envelope": "mailto:mann.el@northeastern.edu",
+      "github": "https://github.com/eliaslmann"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter.",
+    "degree": "MS (AI)",
+    "year": "2024",
+    "now": "at Rowan"
+  },
+  {
+    "name": "Kenechi Dukor",
+    "slug": "kenechi-dukor",
+    "section": "alumni",
+    "role": "M.S. Student, Robotics (CS)",
+    "site": "https://www.kenechidukor.com",
+    "photo": "img/people/kenechi-dukor.jpg",
+    "social": {
+      "envelope": "mailto:dukor.k@northeastern.edu",
+      "github": "https://github.com/kennydukor"
+    },
+    "bio": "My research is focused on improving robot grasping and manipulation operations using machine learning methods.",
+    "degree": "MS (Robotics)",
+    "year": "2024",
+    "now": "at Motorola Solutions"
+  },
+  {
+    "name": "Guanang Su",
+    "slug": "guanang-su",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (CS)",
+    "site": "https://xxs90.github.io/",
+    "photo": "img/people/guanang-su.jpg",
+    "social": {
+      "envelope": "mailto:su.gu@northeatsern.edu",
+      "github": "https://github.com/xxs90"
+    },
+    "bio": "My research interests include robot learning.",
+    "degree": "MS (Robotics)",
+    "year": "2023",
+    "now": "a PhD student at University of Minnesota"
+  },
+  {
+    "name": "Neel Sortur",
+    "slug": "neel-sortur",
+    "section": "alumni",
+    "role": "Undergraduate student, CS",
+    "site": "https://www.linkedin.com/in/neel-sortur/",
+    "photo": "img/people/neel-sortur.jpg",
+    "social": {
+      "envelope": "mailto:sortur.n@northeastern.edu",
+      "github": "https://github.com/nsortur"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter.",
+    "degree": "BS (CS)",
+    "year": "2023"
+  },
+  {
+    "name": "Shuyi Lin",
+    "slug": "shuyi-lin",
+    "section": "alumni",
+    "role": "M.S. student, Computer Science(CS)",
+    "site": "https://www.linkedin.com/in/shu-yi-lin",
+    "photo": "img/people/shuyi-lin.jpg",
+    "social": {
+      "envelope": "mailto:lin.shuyi@northeatsern.edu",
+      "github": "https://github.com/lydialin1212"
+    },
+    "bio": "My research interests include robot learning.",
+    "degree": "MS (CS)",
+    "year": "2023"
+  },
+  {
+    "name": "Meishan Li",
+    "slug": "meishan-li",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (CS)",
+    "site": "https://www.linkedin.com/in/meishan-l/",
+    "photo": "img/people/meishan-li.jpg",
+    "social": {
+      "envelope": "mailto:li.meis@northeastern.edu",
+      "github": "https://github.com/M33xxx"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter.",
+    "degree": "MS (Robotics)",
+    "year": "2023",
+    "now": "at CRRC MA"
+  },
+  {
+    "name": "Mingxi Jia",
+    "slug": "mingxi-jia",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (CS)",
+    "site": "https://mingxi-jia.github.io",
+    "photo": "img/people/mingxi-jia.jpg",
+    "social": {
+      "envelope": "mailto:jia.ming@northeastern.edu",
+      "twitter": "https://twitter.com/SaulBadman12",
+      "github": "https://github.com/SaulBatman"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter.",
+    "degree": "MS (Robotics)",
+    "year": "2023",
+    "now": "a PhD student at Brown University"
+  },
+  {
+    "name": "Kevin Esslinger",
+    "slug": "kevin-esslinger",
+    "section": "alumni",
+    "role": "PhD student, CS, co-advised with Chris Amato",
+    "site": "https://kevslinger.github.io/",
+    "photo": "img/people/kevin-esslinger.jpg",
+    "social": {
+      "envelope": "mailto:esslinger.k@northeastern.edu",
+      "twitter": "https://twitter.com/kevslinger",
+      "github": "https://github.com/kevslinger"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter.",
+    "degree": "MS (CS)",
+    "year": "2023",
+    "now": "at Flow Traders"
+  },
+  {
+    "name": "Xinchao Song",
+    "slug": "xinchao-song",
+    "section": "alumni",
+    "degree": "MS (CS)",
+    "year": "2021",
+    "now": "a PhD student at Clarkson University"
+  },
+  {
+    "name": "Zhengyi Ou",
+    "slug": "zhengyi-ou",
+    "section": "alumni",
+    "degree": "MS (Robotics)",
+    "year": "2021",
+    "now": "at Medtronic"
+  },
+  {
+    "name": "Yida Niu",
+    "slug": "yida-niu",
+    "section": "alumni",
+    "degree": "MS (Robotics)",
+    "year": "2021"
+  },
+  {
+    "name": "Jing Xie",
+    "slug": "jing-xie",
+    "section": "alumni",
+    "degree": "MS (CS)",
+    "year": "2019"
+  },
+  {
+    "name": "Kevin Doty",
+    "slug": "kevin-doty",
+    "section": "alumni",
+    "degree": "MS (ECE)",
+    "year": "2019",
+    "now": "at Neya Systems"
+  },
+  {
+    "name": "Maozhi Liu",
+    "slug": "maozhi-liu",
+    "section": "alumni",
+    "degree": "MS (ME)",
+    "year": "2018",
+    "now": "at Flexiv Robotics"
+  },
+  {
+    "name": "Mordechai Rynderman",
+    "slug": "mordechai-rynderman",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2016",
+    "now": "a robotics engineer at iRobot"
+  },
+  {
+    "name": "Patrick Murphy",
+    "slug": "patrick-murphy",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2016",
+    "now": "an electromechanical engineer at Harvard"
+  },
+  {
+    "name": "Caris Moses",
+    "slug": "caris-moses",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2016",
+    "now": "a PhD student at MIT"
+  },
+  {
+    "name": "Matt Corsaro",
+    "slug": "matt-corsaro",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2016",
+    "now": "a PhD student at Brown"
+  },
+  {
+    "name": "Di Sun",
+    "slug": "di-sun",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2015",
+    "now": "a robotics engineer at Fetch Robotics"
+  },
+  {
+    "name": "Swagatika Panda",
+    "slug": "swagatika-panda",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2015",
+    "now": "a software engineer at Amazon"
+  },
+  {
+    "name": "Giulia Franchi",
+    "slug": "giulia-franchi",
+    "section": "alumni",
+    "degree": "Visiting Student from U. Rome",
+    "year": "2015",
+    "now": "an assistant professor at Salisbury University"
+  },
+  {
+    "name": "Nate Roscup",
+    "slug": "nate-roscup",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2013"
+  },
+  {
+    "name": "Prahasaran Askoran",
+    "slug": "prahasaran-askoran",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2013"
+  },
+  {
+    "name": "Scott Settembre",
+    "slug": "scott-settembre",
+    "section": "alumni",
+    "degree": "MS",
+    "year": "2012"
+  },
+  {
+    "name": "Anio Zhang",
+    "slug": "anio-zhang",
+    "section": "alumni",
+    "role": "M.S. student, Information Systems",
+    "site": "https://aniozhang.github.io/",
+    "photo": "img/people/anio-zhang.jpg",
+    "social": {
+      "envelope": "mailto:zhang.shengn@northeastern.edu",
+      "github": "https://github.com/Aniozhang"
+    },
+    "bio": "My research interests include equivariance, human-robot interaction, optimization, computer vision."
+  },
+  {
+    "name": "Julian Ryde",
+    "slug": "julian-ryde",
+    "section": "alumni",
+    "degree": "Research Assistant Professor",
+    "now": "a Senior Research Scientist at United Technologies Research Center (UTRC)"
+  },
+  {
+    "name": "Abhinav kumar",
+    "slug": "abhinav-kumar",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (ECE)",
+    "site": "https://www.linkedin.com/in/abhinav-kumar-777b18211/",
+    "photo": "img/people/abhinav-kumar.jpg",
+    "social": {
+      "envelope": "mailto:kumar.abhina@northeatsern.edu",
+      "github": "https://www.linkedin.com/in/abhinav-kumar-777b18211/"
+    },
+    "bio": "Passionate about driving innovation at the intersection of Robotics, Artificial Intelligence, Reinforcement Learning, and Control Systems"
+  },
+  {
+    "name": "Colin Keil",
+    "slug": "colin-keil",
+    "section": "alumni",
+    "role": "PhD student, CS, co-advised with Hanu Singh",
+    "site": "https://www.colinkeil.com/",
+    "photo": "img/people/colin-keil.jpg",
+    "social": {
+      "envelope": "mailto:cwk.321@gmail.com"
+    },
+    "bio": "My research interests include distributed robotics, mobile computing and programmable matter."
+  },
+  {
+    "name": "Yijian (Tony) Huang",
+    "slug": "yijian-tony-huang",
+    "section": "alumni",
+    "role": "M.S. student, Robotics (CS)",
+    "site": "https://www.linkedin.com/in/yijianhuang/",
+    "photo": "img/people/yijian-tony-huang.jpg",
+    "social": {
+      "envelope": "mailto:huang.yijia@northeastern.edu",
+      "github": "https://github.com/huang-yijia"
+    },
+    "bio": "My research interests include Artificial Intelligence and Robotics."
+  },
+  {
+    "name": "Ashwin Ravindra Bharadwaj",
+    "slug": "ashwin-ravindra-bharadwaj",
+    "section": "alumni",
+    "role": "M.S. student, Artificial intelligence",
+    "site": "https://its-a-me-ashwin.github.io/Ashwin-R-Bharadwaj/index.html",
+    "photo": "img/people/ashwin-ravindra-bharadwaj.jpg",
+    "social": {
+      "envelope": "mailto:bharadwaj.ash@northeatsern.edu",
+      "github": "https://github.com/Its-a-me-Ashwin"
+    },
+    "bio": "My research interests are related to robot navigation and increasing the efficiency of current methods while maintaing their performence."
+  }
+]

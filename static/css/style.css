@@ -1,0 +1,330 @@
+/* The Helping Hands Lab
+   White canvas, neutral greys, few rules, wide type steps.
+   Everything tunable lives in :root. */
+
+:root {
+  --width: 980px;
+  --gutter: 22px;
+
+  /* Neutral greys, not warm. High-contrast body text on white. */
+  --ink:    #1d1d1f;   /* headings and body */
+  --muted:  #6e6e73;   /* metadata, secondary links */
+  --faint:  #86868b;   /* captions */
+  --accent: #b01e28;   /* Northeastern red, deepened so it reads as considered */
+  --line:   #d2d2d7;   /* hairline, used sparingly */
+  --bg:     #ffffff;
+  --bg-soft:#f5f5f7;   /* image placeholder / letterbox */
+
+  /* Six well-separated steps rather than a dozen near-identical ones. */
+  --t-hero:    clamp(46px, 7vw, 72px);
+  --t-title:   clamp(32px, 4.6vw, 44px);
+  --t-section: 26px;
+  --t-item:    19px;
+  --t-body:    17px;
+  --t-small:   15px;
+  --t-meta:    13.5px;
+
+  --header-h: 60px;
+  --radius: 14px;
+  --radius-sm: 10px;
+
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
+          "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: var(--t-body);
+  line-height: 1.58;
+  /* SF is already optically spaced; positive tracking makes it look loose */
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* padding-inline, never the `padding` shorthand: the shorthand would also zero
+   out vertical padding set by whatever element carries .wrap. */
+.wrap {
+  max-width: var(--width);
+  margin: 0 auto;
+  padding-inline: var(--gutter);
+}
+
+a { color: var(--ink); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+h1, h2, h3 { color: var(--ink); margin: 0; }
+
+/* height:auto is load-bearing: the width/height HTML attributes are
+   presentational hints that would otherwise pin the height and defeat every
+   `aspect-ratio` below. */
+img { max-width: 100%; display: block; height: auto; }
+
+.skip-link {
+  position: absolute; left: -9999px;
+  background: var(--ink); color: #fff; padding: 10px 16px;
+  border-radius: var(--radius-sm); z-index: 100;
+}
+.skip-link:focus { left: 10px; top: 10px; }
+
+/* ---------------------------------------------------------------- header */
+
+/* sticky, not fixed: the header stays in normal flow, so it reserves its own
+   space and can never sit on top of the content. */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  height: var(--header-h);
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+}
+
+.header-inner {
+  height: 100%;
+  display: flex; align-items: center; justify-content: space-between; gap: 18px;
+}
+
+.brand {
+  font-size: var(--t-small); font-weight: 600;
+  letter-spacing: -0.01em; color: var(--ink); white-space: nowrap;
+}
+.brand:hover { text-decoration: none; }
+
+/* weight stays constant across states; only colour shifts */
+.site-header nav { display: flex; gap: 30px; }
+.site-header nav a {
+  font-size: var(--t-small); font-weight: 400;
+  color: var(--muted); transition: color .2s ease;
+}
+.site-header nav a:hover { color: var(--ink); text-decoration: none; }
+.site-header nav a[aria-current="page"] { color: var(--ink); }
+
+main { padding-top: 76px; padding-bottom: 120px; }
+
+/* ------------------------------------------------------------------ home */
+
+.hero { display: flex; gap: 48px; align-items: flex-start; }
+.hero-copy { flex: 1 1 auto; min-width: 0; max-width: 34rem; }
+.hero-logo { flex: 0 0 340px; min-width: 0; margin-top: 10px; }
+.hero-logo img { width: 100%; }
+
+.hero h1 {
+  font-size: var(--t-hero);
+  font-weight: 700;
+  line-height: 1.02;
+  letter-spacing: -0.032em;
+  margin-bottom: 28px;
+}
+
+.hero .lede { font-size: 21px; line-height: 1.42; letter-spacing: -0.01em; margin: 0 0 18px; }
+.hero .lede b { color: var(--accent); font-weight: 600; }
+.hero p { margin: 0 0 18px; }
+.hero-body { color: var(--muted); }
+
+.hero-figure { margin: 72px 0 0; }
+.hero-figure img { width: 100%; border-radius: var(--radius); }
+.hero-figure figcaption { font-size: var(--t-meta); color: var(--faint); margin-top: 12px; }
+
+/* a row of plain text links with a trailing arrow */
+.text-links { display: flex; flex-wrap: wrap; gap: 28px; margin-top: 34px; }
+.text-links a { font-weight: 600; font-size: var(--t-body); letter-spacing: -0.01em; }
+.text-links a::after { content: " \2197"; color: var(--faint); font-weight: 400; }
+
+.hero-external { margin-top: 30px; font-size: var(--t-small); color: var(--faint); }
+.hero-external a { font-weight: 400; color: var(--muted); }
+.hero-external a:hover { color: var(--ink); }
+
+/* --------------------------------------------------------------- sections */
+
+/* whitespace does the separating; no rules under headings */
+.section { margin-top: 88px; }
+.section:first-child { margin-top: 0; }
+
+.section-title {
+  font-size: var(--t-section); font-weight: 600;
+  letter-spacing: -0.018em;
+  margin-bottom: 8px;
+}
+
+.section-note { color: var(--faint); font-size: var(--t-small); margin: 0 0 34px; }
+.section-title + .people-grid,
+.section-title + .faculty,
+.section-title + .pub-list,
+.section-title + .card-list,
+.section-title + .alumni-list,
+.section-title + .video-grid { margin-top: 30px; }
+
+.page-title {
+  font-size: var(--t-title); font-weight: 700;
+  letter-spacing: -0.024em; line-height: 1.06;
+  margin-bottom: 16px;
+}
+.page-intro { margin: 0 0 76px; color: var(--muted); font-size: 19px; line-height: 1.5; }
+
+/* --------------------------------------------------------- publications */
+
+.pub-list { list-style: none; margin: 0; padding: 0; }
+
+.pub {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  align-items: start;
+  gap: 30px;
+  padding: 0 0 46px;      /* space between entries instead of a rule */
+}
+.pub:last-child { padding-bottom: 0; }
+
+.pub-thumb {
+  width: 220px;
+  align-self: center;     /* equal space above and below, whatever its height */
+  background: var(--bg-soft);
+  border-radius: var(--radius-sm);
+}
+img.pub-thumb { height: auto; }
+div.pub-thumb { aspect-ratio: 4 / 3; }   /* placeholder for a paper with no figure */
+
+.pub-title {
+  font-size: var(--t-item); font-weight: 600;
+  letter-spacing: -0.014em; line-height: 1.3; margin: 0 0 8px;
+}
+.pub-authors { font-size: var(--t-small); color: var(--muted); margin: 0 0 6px; line-height: 1.5; }
+.pub-authors .me { color: var(--ink); font-weight: 600; }
+.pub-venue { font-size: var(--t-small); color: var(--ink); font-weight: 600; margin: 0; }
+.pub-award {
+  display: inline-block; margin-left: 10px;
+  font-size: var(--t-meta); font-weight: 600; color: var(--accent);
+}
+
+.pub-links { display: flex; flex-wrap: wrap; gap: 18px; margin-top: 12px; }
+.pub-links a { font-size: var(--t-small); color: var(--muted); }
+.pub-links a:hover { color: var(--accent); }
+
+/* -------------------------------------------------------------- people */
+
+.faculty { display: flex; gap: 34px; align-items: flex-start; }
+.faculty img {
+  width: 190px; aspect-ratio: 1; object-fit: cover;
+  border-radius: 20%; flex: none;
+}
+.faculty h3 { font-size: 23px; font-weight: 600; letter-spacing: -0.016em; margin-bottom: 4px; }
+.faculty .person-role { font-size: var(--t-small); margin-bottom: 14px; }
+.faculty p { margin: 0 0 12px; color: var(--muted); }
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(132px, 1fr));
+  gap: 38px 24px;
+}
+
+/* grid cards centre under the portrait; the faculty block stays left-aligned */
+.member { text-align: center; }
+.member img {
+  width: 100%; aspect-ratio: 1; object-fit: cover;
+  border-radius: 20%; background: var(--bg-soft);
+  margin-bottom: 14px;
+  transition: transform .25s ease;
+}
+.member a:hover img { transform: scale(1.03); }
+.member h3 { font-size: var(--t-small); font-weight: 600; letter-spacing: -0.008em; margin-bottom: 2px; }
+.member .person-social { justify-content: center; }
+
+.person-role { font-size: var(--t-meta); color: var(--muted); margin: 0; line-height: 1.4; }
+
+/* three or four links do not fit one 132px card; without wrapping they spill
+   into the neighbouring card and read as one run-on list */
+.person-social { display: flex; flex-wrap: wrap; gap: 6px 11px; margin-top: 7px; }
+.person-social a { font-size: var(--t-meta); color: var(--faint); }
+.person-social a:hover { color: var(--accent); }
+
+/* alumni as a compact reading list, not a photo wall */
+.alumni-list { list-style: none; margin: 0; padding: 0; columns: 2; column-gap: 52px; }
+.alumni-list li {
+  break-inside: avoid; padding: 9px 0;
+  font-size: var(--t-small); line-height: 1.45;
+}
+.alumni-list .person-role { display: inline; font-size: var(--t-small); }
+.alumni-list .person-role::before { content: " \2014 "; }
+
+/* ----------------------------------------------------------- code/video */
+
+.card-list { list-style: none; margin: 0; padding: 0; }
+.card-list li { padding: 0 0 26px; }
+.card-list li:last-child { padding-bottom: 0; }
+.card-list h3 { font-size: var(--t-item); font-weight: 600; letter-spacing: -0.012em; margin-bottom: 5px; }
+.card-list p { margin: 0; font-size: var(--t-small); color: var(--muted); }
+
+.video-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap: 32px; }
+.video-grid figure { margin: 0; }
+.video-grid .frame {
+  position: relative; padding-bottom: 56.25%; height: 0;
+  border-radius: var(--radius-sm); overflow: hidden; background: var(--bg-soft);
+}
+.video-grid iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.video-grid figcaption { margin-top: 12px; font-size: var(--t-small); color: var(--ink); font-weight: 600; }
+.video-grid figcaption span { display: block; font-weight: 400; color: var(--faint); font-size: var(--t-meta); }
+
+/* --------------------------------------------------------------- join */
+
+.opening { padding: 0 0 44px; }
+.opening:last-of-type { padding-bottom: 0; }
+.opening h3 { font-size: var(--t-item); font-weight: 600; letter-spacing: -0.012em; margin-bottom: 8px; }
+.opening p { margin: 0 0 10px; color: var(--muted); }
+
+.opening-link { margin: 14px 0 0; font-weight: 600; font-size: var(--t-body); }
+.opening-link a::after { content: " \2197"; color: var(--faint); font-weight: 400; }
+
+/* ------------------------------------------------------------- footer */
+
+.site-footer {
+  padding: 0 0 56px;
+  font-size: var(--t-meta); color: var(--faint);
+}
+.site-footer a { color: var(--faint); }
+.site-footer a:hover { color: var(--ink); }
+.site-footer p { margin: 0; }
+
+/* --------------------------------------------------------- responsive */
+
+@media (max-width: 860px) {
+  .hero { flex-direction: column; gap: 32px; }
+  .hero-logo { flex: none; width: 280px; align-self: center; margin-top: 0; }
+  .hero-figure { margin-top: 48px; }
+  .faculty { flex-direction: column; gap: 20px; }
+  .faculty img { width: 160px; }
+  .alumni-list { columns: 1; }
+  .pub { grid-template-columns: 170px 1fr; gap: 24px; }
+  .pub-thumb { width: 170px; }
+}
+
+@media (max-width: 600px) {
+  :root { --t-section: 23px; --t-item: 18px; --t-body: 16.5px; }
+  main { padding-top: 44px; padding-bottom: 80px; }
+  .section { margin-top: 62px; }
+  .page-intro { margin-bottom: 52px; font-size: var(--t-body); }
+  .hero .lede { font-size: 19px; }
+  .site-header nav { gap: 18px; }
+  .pub { grid-template-columns: 110px 1fr; gap: 18px; padding-bottom: 38px; }
+  .pub-thumb { width: 110px; }
+  .people-grid { grid-template-columns: repeat(auto-fill, minmax(112px, 1fr)); gap: 30px 18px; }
+}
+
+@media (max-width: 380px) {
+  .site-header nav { gap: 13px; }
+  .site-header nav a, .brand { font-size: 13.5px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+
+@media print {
+  .site-header, .skip-link { display: none; }
+  main { padding-top: 0; }
+}

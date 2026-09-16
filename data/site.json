@@ -1,0 +1,160 @@
+{
+  "title": "The Helping Hands Lab",
+  "short_title": "Helping Hands",
+  "institution": "Northeastern University",
+  "institution_url": "https://www.khoury.northeastern.edu/",
+  "nav": [
+    {
+      "label": "Home",
+      "href": "index.html"
+    },
+    {
+      "label": "Research",
+      "href": "research.html"
+    },
+    {
+      "label": "Lab",
+      "href": "lab.html"
+    },
+    {
+      "label": "Join Us",
+      "href": "join.html"
+    }
+  ],
+  "hero": {
+    "headline": [
+      "Helping",
+      "Hands",
+      "Lab"
+    ],
+    "logo": "img/logo.png",
+    "logo_alt": "Helping Hands Lab logo: a robot gripper and a human hand reaching for each other",
+    "lede": "We are the <b>Helping Hands Lab</b> at Northeastern University.",
+    "body": "We develop perception, planning, and control algorithms for robot manipulation in unstructured environments. We are particularly interested in robots that work with humans in built-for-human environments.",
+    "links": [
+      {
+        "label": "Our research",
+        "href": "research.html"
+      },
+      {
+        "label": "Meet the lab",
+        "href": "lab.html"
+      },
+      {
+        "label": "Join us",
+        "href": "join.html"
+      }
+    ],
+    "external": [
+      {
+        "label": "YouTube",
+        "href": "https://www.youtube.com/playlist?list=PLtEvDdcT-Ai-Pn9Rx3Lph1ml1xzhTpcRj"
+      },
+      {
+        "label": "X",
+        "href": "https://twitter.com/HelpingHandsLab"
+      }
+    ]
+  },
+  "//sections": "Page order is this list's order. sort: '-start' newest first, 'start' oldest first, 'name' by surname, '-year' by graduation; a section sorted by start requires every member to have one. style: 'faculty' big photo + bio, 'grid' portrait cards (default), 'list' compact text list.",
+  "people_sections": [
+    {
+      "key": "faculty",
+      "title": "Faculty",
+      "sort": "name",
+      "style": "faculty"
+    },
+    {
+      "key": "phd",
+      "title": "PhD Students",
+      "sort": "-start"
+    },
+    {
+      "key": "ms",
+      "title": "MS Students",
+      "sort": "-start"
+    },
+    {
+      "key": "visiting",
+      "title": "Visiting Students",
+      "sort": "-start"
+    },
+    {
+      "key": "undergrad",
+      "title": "Undergraduate Students",
+      "sort": "-start"
+    },
+    {
+      "key": "phd_alumni",
+      "title": "PhD Alumni",
+      "sort": "name"
+    },
+    {
+      "key": "alumni",
+      "title": "Undergrad/Master Alumni",
+      "sort": "-year",
+      "style": "list"
+    }
+  ],
+  "code": [
+    {
+      "name": "BulletArm",
+      "blurb": "An open-source benchmark and learning framework for robotic manipulation.",
+      "url": "https://github.com/ColinKohler/BulletArm"
+    },
+    {
+      "name": "GPD — Grasp Pose Detection",
+      "blurb": "Detects 6-DOF grasp poses directly in point clouds, without object models.",
+      "url": "https://github.com/atenpas/gpd"
+    },
+    {
+      "name": "NURO Arm",
+      "blurb": "A low-cost robot arm platform for education and research.",
+      "url": "https://github.com/dmklee/nuro-arm"
+    }
+  ],
+  "videos": [
+    {
+      "id": "E2l16T0biu4",
+      "title": "Workshop on Symmetries in Robot Learning",
+      "note": "RSS 2023"
+    },
+    {
+      "id": "dx5rDtdv7LM",
+      "title": "Equivariant Learning for Robotic Manipulation",
+      "note": "Guest lecture by Dian Wang"
+    }
+  ],
+  "join": {
+    "intro": "We are always looking for people who work at the intersection of robotics and machine learning.",
+    "openings": [
+      {
+        "title": "Postdoc and PhD positions",
+        "body": "Funded postdoc and PhD positions are available in the Helping Hands Lab at Northeastern University for students who work at the intersection of robotics and machine learning. To apply, please email your CV to Robert Platt.",
+        "contact": "rplatt@ccs.neu.edu"
+      },
+      {
+        "title": "Master's, undergraduate, and visiting students",
+        "body": "The Helping Hands Lab always welcomes Master's, undergraduate, and visiting students. If you would like to join us, the best first step is to contact the PhD student whose research interests you most and ask what they are working on.",
+        "link": {
+          "label": "See who is in the lab",
+          "href": "lab.html"
+        }
+      }
+    ]
+  },
+  "//redirects": "Old Hugo URLs that are live today and may be linked from elsewhere. Each key becomes <key>/index.html forwarding to the value. Local PDFs keep their original publication/<slug>/<file>.pdf paths, so those need no redirect.",
+  "redirects": {
+    "people":      { "to": "../lab.html",      "label": "Lab" },
+    "publication": { "to": "../research.html", "label": "Research" },
+    "code":        { "to": "../research.html", "label": "Research" },
+    "video":       { "to": "../research.html", "label": "Research" },
+    "contact":     { "to": "../join.html",     "label": "Join Us" }
+  },
+
+  "footer": {
+    "lines": [
+      "<a href=\"https://www.northeastern.edu/\">Northeastern University</a>"
+    ]
+  }
+}
