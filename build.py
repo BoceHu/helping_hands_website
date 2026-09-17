@@ -127,7 +127,17 @@ def author_line(authors, member_names):
     return ", ".join(out)
 
 
-def person_card(p):
+def term(start):
+    """'2023-09' -> 'Fall 2023'. Months map to the US academic calendar."""
+    if not start or "-" not in start:
+        return ""
+    year, month = start.split("-")[:2]
+    m = int(month)
+    season = "Spring" if m <= 4 else ("Summer" if m <= 7 else "Fall")
+    return f"{season} {year}"
+
+
+def person_card(p, show_start=False):
     name = e(p["name"])
     link = p.get("site", "")
     img = (f'<img src="{e(asset(p["photo"]))}" alt="{name}" loading="lazy" width="300" height="300">'
@@ -147,7 +157,11 @@ def person_card(p):
         if items:
             social = f'<div class="person-social">{items}</div>'
     role = f'<p class="person-role">{e(p["role"])}</p>' if p.get("role") else ""
-    return (f'<article class="member">{img}<h3>{nm}</h3>{role}{social}</article>')
+    started = ""
+    if show_start and term(p.get("start")):
+        started = f'<p class="person-start">Started {e(term(p["start"]))}</p>'
+    return (f'<article class="member">{img}<h3>{nm}</h3>'
+            f'{role}{started}{social}</article>')
 
 
 def faculty_block(p):
@@ -307,8 +321,9 @@ def page_lab(site, people, pubs):
             body = ('<ul class="alumni-list">'
                     + "".join(alumni_item(p) for p in group) + "</ul>")
         else:
+            show_start = bool(sec.get("show_start"))
             body = ('<div class="people-grid">'
-                    + "".join(person_card(p) for p in group) + "</div>")
+                    + "".join(person_card(p, show_start) for p in group) + "</div>")
         parts.append(f'<section class="section"><h2 class="section-title">'
                      f'{e(sec["title"])}</h2>{body}</section>')
 

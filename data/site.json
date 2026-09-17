@@ -67,7 +67,8 @@
     {
       "key": "phd",
       "title": "PhD Students",
-      "sort": "-start"
+      "sort": "-start",
+      "show_start": true
     },
     {
       "key": "ms",
@@ -145,13 +146,27 @@
   },
   "//redirects": "Old Hugo URLs that are live today and may be linked from elsewhere. Each key becomes <key>/index.html forwarding to the value. Local PDFs keep their original publication/<slug>/<file>.pdf paths, so those need no redirect.",
   "redirects": {
-    "people":      { "to": "../lab.html",      "label": "Lab" },
-    "publication": { "to": "../research.html", "label": "Research" },
-    "code":        { "to": "../research.html", "label": "Research" },
-    "video":       { "to": "../research.html", "label": "Research" },
-    "contact":     { "to": "../join.html",     "label": "Join Us" }
+    "people": {
+      "to": "../lab.html",
+      "label": "Lab"
+    },
+    "publication": {
+      "to": "../research.html",
+      "label": "Research"
+    },
+    "code": {
+      "to": "../research.html",
+      "label": "Research"
+    },
+    "video": {
+      "to": "../research.html",
+      "label": "Research"
+    },
+    "contact": {
+      "to": "../join.html",
+      "label": "Join Us"
+    }
   },
-
   "footer": {
     "lines": [
       "<a href=\"https://www.northeastern.edu/\">Northeastern University</a>"

@@ -236,6 +236,8 @@ div.pub-thumb { aspect-ratio: 4 / 3; }   /* placeholder for a paper with no figu
 .member .person-social { justify-content: center; }
 
 .person-role { font-size: var(--t-meta); color: var(--muted); margin: 0; line-height: 1.4; }
+/* one step fainter than the role, so the card still reads name-first */
+.person-start { font-size: var(--t-meta); color: var(--faint); margin: 3px 0 0; line-height: 1.4; }
 
 /* three or four links do not fit one 132px card; without wrapping they spill
    into the neighbouring card and read as one run-on list */
