@@ -128,12 +128,12 @@
     "section": "ms",
     "start": "2025-07",
     "role": "M.S. student, Robotics (ECE)",
-    "site": "https://sakshi79.github.io/about.html",
+    "site": "https://sakshi79.github.io/",
     "photo": "img/people/sakshi-bhatia.jpg",
     "social": {
       "envelope": "mailto:bhatia.saks@northeastern.edu"
     },
-    "bio": "My research interests include perception and action planning for robotic manipulation, given limited demonstration data."
+    "bio": "My research interests include robotic manipulation with limited demonstrations, and building custom simulation benchmarks."
   },
   {
     "name": "Javad Moein",
